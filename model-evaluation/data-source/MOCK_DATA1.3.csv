@@ -1,0 +1,1001 @@
+user_id,fund_category,fund_name,investment_amount,risk_profile,investment_date,fund_performance,user_age,fund_risk_level,investment_duration_years
+1,Equity,BlackRock Global Allocation Fund,37286.72,Moderate,7/30/2021,16.22,63,High,25
+2,Equity,Vanguard Total Stock Market Index Fund,10198.82,Moderate,6/2/2018,10.43,31,Low,18
+3,Equity,BlackRock Global Allocation Fund,353074.2,Conservative,8/27/2017,2.36,32,Medium,3
+4,Fixed Income,BlackRock Global Allocation Fund,906754.4,Aggressive,1/28/2017,32.48,31,High,29
+5,Fixed Income,BlackRock Global Allocation Fund,509957.36,Aggressive,6/18/2012,-46.79,48,Low,15
+6,Balanced,BlackRock Global Allocation Fund,355804.93,Aggressive,9/12/2013,-0.44,34,Low,11
+7,Equity,BlackRock Global Allocation Fund,773281.1,Conservative,3/29/2020,-45.78,22,Medium,30
+8,Balanced,Fidelity 500 Index Fund,507897.83,Moderate,6/28/2010,-22.05,83,Medium,26
+9,Balanced,Vanguard Total Stock Market Index Fund,173439.18,Moderate,8/8/2014,45.89,44,High,2
+10,Equity,Vanguard Total Stock Market Index Fund,359427.8,Conservative,5/14/2013,-26.68,33,Medium,5
+11,Balanced,Vanguard Total Stock Market Index Fund,565135.73,Conservative,3/20/2019,-24.49,33,Medium,12
+12,Equity,Fidelity 500 Index Fund,316152.41,Aggressive,10/14/2020,-18.68,49,Medium,8
+13,Fixed Income,BlackRock Global Allocation Fund,725913.69,Aggressive,10/18/2017,-24.12,62,Medium,8
+14,Fixed Income,Fidelity 500 Index Fund,319013.03,Moderate,4/18/2010,-31.09,63,High,28
+15,Balanced,Fidelity 500 Index Fund,31337.65,Conservative,1/24/2016,20.21,60,Medium,20
+16,Equity,Fidelity 500 Index Fund,283837.35,Conservative,8/14/2014,-17.16,43,High,10
+17,Fixed Income,BlackRock Global Allocation Fund,277926.03,Aggressive,3/6/2010,26.0,28,Low,17
+18,Balanced,BlackRock Global Allocation Fund,437518.29,Moderate,7/17/2017,-0.92,64,Medium,9
+19,Balanced,Fidelity 500 Index Fund,86929.83,Moderate,2/10/2020,-23.08,36,Medium,19
+20,Balanced,BlackRock Global Allocation Fund,256064.98,Conservative,11/3/2016,29.17,43,Low,27
+21,Fixed Income,Fidelity 500 Index Fund,774297.28,Aggressive,3/6/2019,-48.09,39,High,20
+22,Equity,Fidelity 500 Index Fund,397228.86,Conservative,11/26/2020,-17.08,25,High,13
+23,Equity,BlackRock Global Allocation Fund,365929.73,Moderate,8/10/2018,37.79,81,Medium,12
+24,Fixed Income,BlackRock Global Allocation Fund,14897.35,Aggressive,3/5/2014,32.83,73,Low,18
+25,Fixed Income,BlackRock Global Allocation Fund,904632.61,Conservative,12/20/2011,9.98,19,High,9
+26,Fixed Income,Fidelity 500 Index Fund,222148.22,Aggressive,7/6/2011,-6.86,75,Medium,26
+27,Fixed Income,Fidelity 500 Index Fund,689128.66,Conservative,10/25/2019,-3.46,63,Medium,29
+28,Balanced,Fidelity 500 Index Fund,917468.9,Aggressive,7/8/2021,29.84,39,High,16
+29,Balanced,Vanguard Total Stock Market Index Fund,996370.64,Conservative,3/10/2021,22.96,38,Medium,16
+30,Equity,Vanguard Total Stock Market Index Fund,956843.58,Aggressive,5/9/2017,39.39,53,Low,5
+31,Balanced,Fidelity 500 Index Fund,160755.91,Aggressive,5/13/2016,5.34,49,High,11
+32,Balanced,Fidelity 500 Index Fund,652618.65,Aggressive,7/11/2010,36.67,46,Medium,6
+33,Fixed Income,Vanguard Total Stock Market Index Fund,122615.56,Aggressive,1/18/2014,-12.71,32,Low,7
+34,Fixed Income,BlackRock Global Allocation Fund,230943.19,Moderate,7/2/2015,-48.19,37,High,10
+35,Equity,Vanguard Total Stock Market Index Fund,824454.88,Moderate,1/17/2015,-13.69,50,Low,17
+36,Fixed Income,BlackRock Global Allocation Fund,77561.83,Aggressive,8/29/2014,35.64,66,Low,19
+37,Equity,Fidelity 500 Index Fund,260656.17,Aggressive,7/23/2018,-17.83,38,Low,29
+38,Balanced,Vanguard Total Stock Market Index Fund,489583.54,Aggressive,8/4/2010,2.7,20,Low,24
+39,Equity,Vanguard Total Stock Market Index Fund,617684.26,Moderate,5/18/2018,-18.72,61,Low,18
+40,Fixed Income,Vanguard Total Stock Market Index Fund,957444.66,Moderate,7/13/2010,-45.83,82,Low,1
+41,Balanced,Fidelity 500 Index Fund,320217.54,Moderate,6/18/2019,-6.44,69,High,22
+42,Fixed Income,Fidelity 500 Index Fund,825456.03,Aggressive,7/15/2012,15.56,75,Low,18
+43,Balanced,BlackRock Global Allocation Fund,565021.08,Moderate,12/16/2015,-31.45,54,High,23
+44,Equity,BlackRock Global Allocation Fund,977752.67,Moderate,8/25/2016,-42.0,72,High,22
+45,Fixed Income,BlackRock Global Allocation Fund,356210.13,Moderate,12/20/2016,37.86,30,Low,28
+46,Fixed Income,Fidelity 500 Index Fund,129652.69,Aggressive,8/18/2018,45.56,70,Medium,22
+47,Fixed Income,BlackRock Global Allocation Fund,116702.3,Conservative,10/23/2020,38.14,35,Medium,25
+48,Equity,BlackRock Global Allocation Fund,892594.52,Aggressive,9/11/2013,-46.7,25,Medium,1
+49,Balanced,Vanguard Total Stock Market Index Fund,292636.77,Conservative,2/18/2015,-41.54,84,Medium,20
+50,Balanced,Vanguard Total Stock Market Index Fund,63967.66,Moderate,8/25/2019,35.04,57,High,11
+51,Equity,Fidelity 500 Index Fund,631300.35,Conservative,5/23/2015,-21.54,77,Low,8
+52,Fixed Income,BlackRock Global Allocation Fund,972547.55,Conservative,1/27/2013,43.44,22,Low,12
+53,Fixed Income,Fidelity 500 Index Fund,550764.77,Conservative,11/24/2020,27.57,34,Medium,7
+54,Balanced,BlackRock Global Allocation Fund,871626.27,Aggressive,4/15/2014,38.22,49,Medium,16
+55,Balanced,BlackRock Global Allocation Fund,931403.73,Conservative,2/16/2013,0.05,57,Low,8
+56,Equity,Fidelity 500 Index Fund,11047.81,Aggressive,7/23/2013,-29.78,35,High,17
+57,Balanced,Fidelity 500 Index Fund,209166.66,Moderate,1/5/2015,-9.81,23,Medium,25
+58,Fixed Income,Vanguard Total Stock Market Index Fund,351229.82,Aggressive,5/26/2017,27.08,36,High,17
+59,Balanced,BlackRock Global Allocation Fund,913088.93,Moderate,3/9/2016,1.78,18,High,17
+60,Equity,BlackRock Global Allocation Fund,995543.49,Aggressive,12/24/2016,-17.92,75,High,26
+61,Equity,Vanguard Total Stock Market Index Fund,755808.19,Moderate,10/10/2021,-21.17,83,Medium,21
+62,Equity,Vanguard Total Stock Market Index Fund,79573.38,Conservative,5/13/2019,-39.66,31,Low,18
+63,Balanced,BlackRock Global Allocation Fund,501092.33,Conservative,12/15/2020,-39.37,48,Medium,30
+64,Balanced,BlackRock Global Allocation Fund,4713.59,Conservative,3/9/2013,-45.56,46,High,18
+65,Equity,Fidelity 500 Index Fund,732042.29,Aggressive,1/15/2016,30.24,67,Low,20
+66,Fixed Income,Fidelity 500 Index Fund,568110.46,Aggressive,3/6/2019,48.88,38,High,16
+67,Fixed Income,BlackRock Global Allocation Fund,154367.85,Conservative,4/20/2020,32.05,62,Low,18
+68,Balanced,Fidelity 500 Index Fund,669964.93,Conservative,12/16/2013,-22.75,61,High,19
+69,Balanced,BlackRock Global Allocation Fund,667682.0,Conservative,4/16/2019,37.67,18,Medium,30
+70,Balanced,Vanguard Total Stock Market Index Fund,870591.21,Conservative,4/5/2010,46.34,63,High,16
+71,Equity,BlackRock Global Allocation Fund,544580.34,Aggressive,5/26/2010,47.84,83,Low,22
+72,Fixed Income,BlackRock Global Allocation Fund,420602.15,Aggressive,7/15/2015,-36.56,21,High,24
+73,Equity,BlackRock Global Allocation Fund,201243.54,Aggressive,4/16/2019,-8.75,48,Low,10
+74,Fixed Income,Fidelity 500 Index Fund,175508.3,Aggressive,11/7/2015,-16.91,54,Medium,7
+75,Equity,BlackRock Global Allocation Fund,316818.55,Aggressive,11/6/2011,-4.3,80,Low,21
+76,Equity,Fidelity 500 Index Fund,891426.86,Moderate,12/27/2010,20.25,48,High,27
+77,Fixed Income,Fidelity 500 Index Fund,75012.67,Conservative,9/25/2017,11.27,79,High,4
+78,Fixed Income,Fidelity 500 Index Fund,38297.68,Conservative,9/5/2014,35.59,26,High,4
+79,Balanced,Fidelity 500 Index Fund,493500.71,Conservative,12/18/2020,-28.55,81,Medium,1
+80,Fixed Income,BlackRock Global Allocation Fund,258082.04,Conservative,4/19/2017,-27.44,56,Medium,27
+81,Fixed Income,Vanguard Total Stock Market Index Fund,737643.46,Aggressive,10/26/2016,6.55,54,Medium,16
+82,Balanced,BlackRock Global Allocation Fund,77123.45,Conservative,7/3/2015,-14.35,33,Low,26
+83,Fixed Income,Vanguard Total Stock Market Index Fund,758452.77,Conservative,10/10/2020,-11.49,41,High,1
+84,Equity,BlackRock Global Allocation Fund,568444.03,Moderate,12/9/2010,12.04,80,High,7
+85,Fixed Income,BlackRock Global Allocation Fund,650534.38,Aggressive,4/17/2013,-47.27,32,High,7
+86,Equity,BlackRock Global Allocation Fund,541816.7,Conservative,10/18/2015,47.46,55,Low,23
+87,Balanced,Fidelity 500 Index Fund,903731.41,Conservative,3/2/2011,-17.4,42,Medium,21
+88,Equity,Fidelity 500 Index Fund,286866.6,Aggressive,4/5/2017,2.47,29,Medium,2
+89,Fixed Income,Vanguard Total Stock Market Index Fund,234922.81,Aggressive,3/12/2013,11.42,56,Medium,2
+90,Balanced,Vanguard Total Stock Market Index Fund,680652.78,Conservative,8/22/2015,-10.45,18,High,21
+91,Equity,Vanguard Total Stock Market Index Fund,405801.89,Moderate,10/8/2013,-0.61,67,Medium,12
+92,Fixed Income,Fidelity 500 Index Fund,613800.32,Aggressive,9/26/2014,36.09,75,Medium,5
+93,Equity,Fidelity 500 Index Fund,783255.25,Moderate,4/16/2012,28.06,39,Low,24
+94,Balanced,BlackRock Global Allocation Fund,17983.96,Moderate,5/13/2014,43.83,59,High,5
+95,Equity,BlackRock Global Allocation Fund,316035.48,Moderate,6/16/2020,26.77,52,Medium,7
+96,Equity,BlackRock Global Allocation Fund,451513.42,Moderate,11/20/2012,-26.39,41,Low,16
+97,Equity,BlackRock Global Allocation Fund,923045.08,Moderate,3/16/2015,-21.55,75,Medium,8
+98,Balanced,Vanguard Total Stock Market Index Fund,900598.76,Conservative,3/10/2013,-16.16,46,High,13
+99,Balanced,Vanguard Total Stock Market Index Fund,135754.91,Conservative,9/20/2014,-17.39,63,High,13
+100,Fixed Income,BlackRock Global Allocation Fund,467599.3,Moderate,1/30/2012,20.85,51,Low,10
+101,Balanced,Vanguard Total Stock Market Index Fund,793785.18,Conservative,3/28/2019,-33.96,68,High,26
+102,Fixed Income,Vanguard Total Stock Market Index Fund,97070.43,Moderate,4/13/2021,-34.07,74,High,17
+103,Fixed Income,BlackRock Global Allocation Fund,359237.15,Aggressive,2/24/2011,-7.19,77,Medium,1
+104,Fixed Income,BlackRock Global Allocation Fund,366979.19,Conservative,10/26/2020,-11.38,33,Low,21
+105,Equity,BlackRock Global Allocation Fund,820935.1,Moderate,10/26/2020,-27.55,26,Low,16
+106,Balanced,Vanguard Total Stock Market Index Fund,379185.32,Moderate,3/16/2019,-15.05,18,Low,23
+107,Fixed Income,Fidelity 500 Index Fund,513157.01,Moderate,5/19/2014,11.65,36,High,9
+108,Equity,Fidelity 500 Index Fund,845617.51,Conservative,2/9/2016,32.29,67,Medium,9
+109,Fixed Income,Fidelity 500 Index Fund,10580.12,Aggressive,7/16/2017,30.0,39,Low,18
+110,Balanced,BlackRock Global Allocation Fund,887157.67,Moderate,1/24/2012,26.76,37,Low,4
+111,Balanced,Fidelity 500 Index Fund,752888.5,Aggressive,3/17/2017,7.67,51,High,28
+112,Fixed Income,Fidelity 500 Index Fund,619851.35,Conservative,2/26/2021,39.63,33,High,6
+113,Fixed Income,BlackRock Global Allocation Fund,382536.82,Moderate,12/23/2015,11.36,46,Low,6
+114,Equity,BlackRock Global Allocation Fund,118125.18,Conservative,4/2/2021,32.07,83,Medium,13
+115,Fixed Income,BlackRock Global Allocation Fund,509929.19,Aggressive,9/3/2021,-22.36,39,Medium,6
+116,Equity,Fidelity 500 Index Fund,764669.49,Conservative,9/26/2015,-32.96,22,Low,30
+117,Equity,Fidelity 500 Index Fund,713050.55,Conservative,5/4/2015,-6.31,48,High,18
+118,Balanced,BlackRock Global Allocation Fund,293074.75,Aggressive,8/26/2012,1.08,22,Low,13
+119,Fixed Income,Fidelity 500 Index Fund,567582.08,Aggressive,8/7/2016,-40.34,23,Low,16
+120,Balanced,Vanguard Total Stock Market Index Fund,160163.53,Conservative,3/6/2016,-10.78,32,Medium,12
+121,Equity,Vanguard Total Stock Market Index Fund,21417.38,Conservative,1/6/2020,-44.09,72,Medium,2
+122,Balanced,BlackRock Global Allocation Fund,198502.86,Moderate,4/3/2017,-31.11,75,Low,8
+123,Fixed Income,Fidelity 500 Index Fund,218541.67,Conservative,5/29/2020,34.36,70,Low,4
+124,Balanced,Vanguard Total Stock Market Index Fund,961577.89,Aggressive,11/23/2021,-20.45,72,Medium,15
+125,Fixed Income,Vanguard Total Stock Market Index Fund,446096.54,Moderate,9/2/2011,-23.49,62,Medium,27
+126,Fixed Income,BlackRock Global Allocation Fund,50534.36,Aggressive,4/15/2013,-0.29,74,Low,25
+127,Fixed Income,BlackRock Global Allocation Fund,253487.08,Aggressive,10/6/2017,-23.39,55,High,7
+128,Balanced,BlackRock Global Allocation Fund,49804.46,Conservative,9/10/2011,2.13,56,High,22
+129,Fixed Income,BlackRock Global Allocation Fund,75856.67,Aggressive,8/21/2020,30.25,19,Medium,1
+130,Equity,BlackRock Global Allocation Fund,418042.3,Aggressive,9/11/2014,-47.67,56,Low,27
+131,Balanced,Fidelity 500 Index Fund,16142.57,Moderate,9/9/2017,-25.12,41,Medium,5
+132,Fixed Income,BlackRock Global Allocation Fund,208091.81,Aggressive,5/14/2019,8.63,35,Medium,17
+133,Balanced,BlackRock Global Allocation Fund,5618.34,Aggressive,7/19/2017,48.7,32,Medium,6
+134,Equity,Fidelity 500 Index Fund,515279.14,Conservative,10/17/2020,38.36,63,Low,15
+135,Fixed Income,Vanguard Total Stock Market Index Fund,810501.24,Aggressive,11/6/2019,-13.58,46,Medium,8
+136,Equity,BlackRock Global Allocation Fund,607232.18,Aggressive,4/27/2016,21.06,76,Medium,20
+137,Balanced,Vanguard Total Stock Market Index Fund,235472.04,Moderate,7/22/2011,16.52,60,Low,4
+138,Equity,Fidelity 500 Index Fund,313101.39,Conservative,9/12/2016,-0.73,43,Low,20
+139,Equity,Fidelity 500 Index Fund,983059.5,Aggressive,5/8/2021,-8.28,43,Medium,18
+140,Fixed Income,Fidelity 500 Index Fund,217271.56,Aggressive,4/5/2018,28.75,44,Low,20
+141,Equity,BlackRock Global Allocation Fund,947652.05,Moderate,12/1/2013,-26.83,25,High,25
+142,Balanced,Fidelity 500 Index Fund,84145.85,Conservative,12/13/2010,-45.0,29,Low,5
+143,Equity,Fidelity 500 Index Fund,804985.59,Moderate,1/24/2019,-45.55,58,Medium,2
+144,Balanced,Vanguard Total Stock Market Index Fund,756331.39,Moderate,2/4/2021,36.41,71,Low,21
+145,Equity,Vanguard Total Stock Market Index Fund,420757.62,Conservative,4/24/2017,-30.2,22,Medium,21
+146,Balanced,Vanguard Total Stock Market Index Fund,371811.93,Moderate,12/8/2019,36.98,29,High,28
+147,Balanced,Vanguard Total Stock Market Index Fund,216860.82,Moderate,7/8/2019,-22.6,43,High,10
+148,Equity,BlackRock Global Allocation Fund,613885.48,Aggressive,7/18/2016,-6.17,69,Medium,21
+149,Equity,Fidelity 500 Index Fund,70821.2,Moderate,5/2/2016,-15.27,53,High,19
+150,Equity,Vanguard Total Stock Market Index Fund,228979.49,Moderate,4/16/2012,37.43,77,Low,30
+151,Equity,BlackRock Global Allocation Fund,962780.55,Moderate,4/17/2016,23.87,30,Medium,30
+152,Fixed Income,Fidelity 500 Index Fund,607163.09,Moderate,6/19/2012,-39.38,62,Medium,22
+153,Fixed Income,BlackRock Global Allocation Fund,813011.49,Aggressive,8/31/2014,-46.32,70,Low,17
+154,Fixed Income,Fidelity 500 Index Fund,916132.94,Moderate,1/22/2010,-13.72,34,High,14
+155,Balanced,BlackRock Global Allocation Fund,926658.77,Aggressive,3/9/2011,43.2,32,Medium,7
+156,Equity,Fidelity 500 Index Fund,200380.76,Moderate,11/28/2010,-11.08,71,High,4
+157,Fixed Income,BlackRock Global Allocation Fund,661418.38,Moderate,8/29/2010,-5.83,44,Medium,3
+158,Equity,BlackRock Global Allocation Fund,13607.2,Moderate,11/30/2013,39.83,71,High,21
+159,Balanced,BlackRock Global Allocation Fund,991542.03,Moderate,9/11/2015,44.32,64,High,9
+160,Equity,Fidelity 500 Index Fund,105049.26,Aggressive,2/7/2016,-40.1,83,Medium,17
+161,Fixed Income,BlackRock Global Allocation Fund,293518.0,Aggressive,9/25/2019,24.94,35,Low,8
+162,Equity,Fidelity 500 Index Fund,174660.6,Moderate,4/30/2011,14.53,81,High,2
+163,Balanced,BlackRock Global Allocation Fund,504864.52,Aggressive,12/9/2010,14.57,51,Low,2
+164,Fixed Income,Fidelity 500 Index Fund,376372.99,Moderate,7/31/2016,27.38,82,High,17
+165,Balanced,Vanguard Total Stock Market Index Fund,954934.15,Aggressive,2/16/2013,-27.64,63,High,27
+166,Fixed Income,BlackRock Global Allocation Fund,324424.64,Moderate,7/2/2012,6.25,31,Low,25
+167,Balanced,BlackRock Global Allocation Fund,483495.35,Moderate,6/14/2012,34.69,19,High,27
+168,Equity,Fidelity 500 Index Fund,90404.06,Conservative,2/29/2016,-29.97,79,Low,9
+169,Equity,Vanguard Total Stock Market Index Fund,597390.68,Moderate,5/25/2013,-29.26,24,High,23
+170,Equity,BlackRock Global Allocation Fund,56206.01,Moderate,4/1/2013,13.17,59,Low,24
+171,Balanced,Fidelity 500 Index Fund,921081.54,Aggressive,10/11/2013,-21.29,54,Medium,27
+172,Equity,Fidelity 500 Index Fund,805335.56,Aggressive,2/7/2014,-1.49,22,Low,21
+173,Balanced,BlackRock Global Allocation Fund,621925.4,Conservative,11/22/2016,39.98,44,High,22
+174,Equity,Fidelity 500 Index Fund,541170.35,Moderate,6/14/2010,-45.58,55,Medium,22
+175,Equity,BlackRock Global Allocation Fund,957309.02,Conservative,3/1/2016,9.07,77,Low,26
+176,Equity,Vanguard Total Stock Market Index Fund,187423.42,Aggressive,5/20/2015,10.95,61,Low,15
+177,Fixed Income,BlackRock Global Allocation Fund,24687.55,Conservative,5/6/2012,15.28,37,High,24
+178,Balanced,Vanguard Total Stock Market Index Fund,80800.0,Conservative,3/30/2011,26.31,77,Low,8
+179,Fixed Income,Fidelity 500 Index Fund,109442.82,Conservative,7/17/2013,-9.41,85,High,24
+180,Balanced,BlackRock Global Allocation Fund,452621.02,Moderate,2/8/2014,-43.67,36,Medium,11
+181,Equity,Fidelity 500 Index Fund,908649.94,Conservative,10/13/2021,-49.99,43,Medium,7
+182,Fixed Income,BlackRock Global Allocation Fund,623287.42,Aggressive,3/26/2015,-45.33,81,Medium,23
+183,Fixed Income,BlackRock Global Allocation Fund,174448.22,Aggressive,3/4/2017,10.57,40,Medium,29
+184,Fixed Income,Vanguard Total Stock Market Index Fund,357434.95,Aggressive,1/24/2019,-29.75,18,Low,14
+185,Balanced,Vanguard Total Stock Market Index Fund,460185.16,Aggressive,7/1/2021,-46.76,34,Medium,22
+186,Balanced,BlackRock Global Allocation Fund,799031.1,Conservative,9/22/2016,-36.01,81,High,21
+187,Balanced,Fidelity 500 Index Fund,991319.11,Aggressive,7/27/2011,-36.04,36,Low,1
+188,Equity,Vanguard Total Stock Market Index Fund,618369.28,Aggressive,2/5/2011,12.02,70,Low,4
+189,Equity,Fidelity 500 Index Fund,759047.61,Moderate,9/13/2016,-12.64,59,Low,21
+190,Fixed Income,Vanguard Total Stock Market Index Fund,176104.99,Aggressive,4/17/2020,47.29,52,Medium,10
+191,Balanced,BlackRock Global Allocation Fund,811133.81,Aggressive,11/15/2019,16.68,78,Medium,2
+192,Fixed Income,Vanguard Total Stock Market Index Fund,124871.24,Aggressive,5/1/2018,-43.16,31,Medium,25
+193,Balanced,BlackRock Global Allocation Fund,933274.21,Aggressive,8/15/2012,-35.93,80,Medium,2
+194,Balanced,Fidelity 500 Index Fund,223182.45,Aggressive,6/30/2017,25.97,45,Medium,17
+195,Equity,BlackRock Global Allocation Fund,582619.13,Aggressive,3/8/2015,-42.96,24,Low,17
+196,Fixed Income,Vanguard Total Stock Market Index Fund,947699.01,Conservative,8/19/2012,28.59,59,High,16
+197,Balanced,Fidelity 500 Index Fund,153103.78,Conservative,12/8/2019,-2.65,41,High,16
+198,Equity,Fidelity 500 Index Fund,761558.51,Moderate,6/20/2011,-40.19,25,Medium,12
+199,Equity,Fidelity 500 Index Fund,892668.87,Conservative,1/19/2018,-38.13,32,Medium,15
+200,Fixed Income,Fidelity 500 Index Fund,482627.96,Conservative,4/11/2020,-13.21,69,Medium,24
+201,Equity,Vanguard Total Stock Market Index Fund,151529.53,Conservative,6/19/2019,-18.96,50,Low,26
+202,Equity,Fidelity 500 Index Fund,974502.03,Aggressive,3/31/2018,-38.41,41,Medium,22
+203,Fixed Income,Vanguard Total Stock Market Index Fund,584556.25,Moderate,11/29/2016,-18.09,20,Medium,8
+204,Fixed Income,Vanguard Total Stock Market Index Fund,423892.58,Aggressive,11/23/2014,-41.35,84,High,20
+205,Fixed Income,Vanguard Total Stock Market Index Fund,569810.85,Moderate,4/20/2014,-20.65,39,Low,10
+206,Fixed Income,Vanguard Total Stock Market Index Fund,495860.76,Conservative,1/8/2011,-3.96,19,High,20
+207,Balanced,BlackRock Global Allocation Fund,359036.21,Conservative,7/10/2011,11.73,26,High,30
+208,Fixed Income,Vanguard Total Stock Market Index Fund,583067.98,Conservative,8/7/2010,-15.86,51,Low,12
+209,Balanced,Vanguard Total Stock Market Index Fund,932039.37,Conservative,11/26/2021,-23.01,39,Medium,12
+210,Fixed Income,BlackRock Global Allocation Fund,948536.14,Aggressive,4/6/2021,-19.42,40,Low,19
+211,Balanced,BlackRock Global Allocation Fund,10888.4,Moderate,2/5/2015,-2.14,83,Low,14
+212,Balanced,Vanguard Total Stock Market Index Fund,341474.77,Conservative,1/16/2019,49.05,33,Medium,8
+213,Equity,BlackRock Global Allocation Fund,682828.47,Conservative,5/14/2016,-24.06,70,Medium,5
+214,Equity,Fidelity 500 Index Fund,472581.2,Conservative,10/25/2016,33.38,36,High,28
+215,Fixed Income,Vanguard Total Stock Market Index Fund,761984.31,Moderate,6/4/2021,-1.59,25,Low,24
+216,Balanced,Fidelity 500 Index Fund,415585.01,Conservative,5/29/2013,-45.41,21,High,26
+217,Balanced,Vanguard Total Stock Market Index Fund,747157.73,Aggressive,2/19/2019,-47.11,36,Medium,3
+218,Equity,Fidelity 500 Index Fund,175715.03,Aggressive,11/1/2020,-38.47,67,High,3
+219,Balanced,Vanguard Total Stock Market Index Fund,79713.01,Moderate,11/24/2010,24.19,82,Low,18
+220,Equity,Vanguard Total Stock Market Index Fund,628399.03,Aggressive,12/17/2019,28.17,83,Low,16
+221,Balanced,BlackRock Global Allocation Fund,142117.85,Conservative,6/24/2011,38.41,66,High,16
+222,Fixed Income,Vanguard Total Stock Market Index Fund,157903.47,Conservative,11/28/2020,11.92,67,Medium,2
+223,Equity,Vanguard Total Stock Market Index Fund,337359.99,Conservative,10/2/2018,-45.08,81,Low,11
+224,Equity,Fidelity 500 Index Fund,72709.54,Conservative,1/2/2019,38.64,42,Medium,29
+225,Balanced,Vanguard Total Stock Market Index Fund,733189.25,Moderate,7/16/2018,-36.49,56,Medium,8
+226,Fixed Income,Vanguard Total Stock Market Index Fund,142085.34,Conservative,3/1/2021,-27.97,18,Low,8
+227,Fixed Income,Vanguard Total Stock Market Index Fund,989155.98,Moderate,8/29/2016,-9.0,52,Medium,19
+228,Balanced,Vanguard Total Stock Market Index Fund,244150.33,Conservative,11/13/2015,0.01,20,Medium,2
+229,Fixed Income,Fidelity 500 Index Fund,462395.57,Conservative,7/11/2021,17.9,47,Low,16
+230,Equity,Vanguard Total Stock Market Index Fund,485291.02,Aggressive,4/5/2020,44.96,80,High,29
+231,Balanced,BlackRock Global Allocation Fund,102420.55,Aggressive,11/9/2018,-27.5,24,Low,3
+232,Balanced,Vanguard Total Stock Market Index Fund,21079.88,Aggressive,3/25/2012,3.03,59,Low,10
+233,Balanced,Fidelity 500 Index Fund,757744.28,Aggressive,10/7/2011,19.37,32,High,26
+234,Equity,Vanguard Total Stock Market Index Fund,147866.08,Aggressive,3/5/2014,-34.0,25,High,25
+235,Fixed Income,Fidelity 500 Index Fund,792997.72,Conservative,5/8/2012,-36.65,35,Medium,27
+236,Fixed Income,BlackRock Global Allocation Fund,851576.47,Conservative,5/22/2020,35.38,45,Low,1
+237,Equity,BlackRock Global Allocation Fund,586510.4,Aggressive,3/6/2010,-31.58,38,Medium,20
+238,Equity,Vanguard Total Stock Market Index Fund,43543.06,Aggressive,2/4/2018,-31.38,73,Medium,24
+239,Equity,BlackRock Global Allocation Fund,656162.58,Moderate,8/12/2019,-11.5,44,Low,10
+240,Equity,Fidelity 500 Index Fund,318515.27,Moderate,10/8/2017,0.47,73,Low,23
+241,Balanced,Vanguard Total Stock Market Index Fund,662433.67,Moderate,9/18/2018,43.93,56,High,16
+242,Fixed Income,BlackRock Global Allocation Fund,195718.79,Conservative,7/30/2018,-38.74,79,Low,2
+243,Equity,BlackRock Global Allocation Fund,141802.8,Aggressive,12/8/2018,-16.94,33,Medium,17
+244,Balanced,Vanguard Total Stock Market Index Fund,173931.13,Aggressive,6/16/2021,8.08,75,Medium,9
+245,Equity,BlackRock Global Allocation Fund,287917.74,Conservative,4/11/2015,37.64,39,Low,6
+246,Balanced,BlackRock Global Allocation Fund,677929.46,Conservative,6/23/2011,11.68,66,Medium,23
+247,Fixed Income,Fidelity 500 Index Fund,276152.7,Conservative,4/22/2019,11.83,54,High,11
+248,Balanced,Vanguard Total Stock Market Index Fund,332493.91,Conservative,10/28/2016,42.33,70,High,15
+249,Equity,Vanguard Total Stock Market Index Fund,96321.73,Conservative,3/9/2010,-12.33,74,High,23
+250,Fixed Income,BlackRock Global Allocation Fund,893915.75,Aggressive,2/27/2013,43.2,40,Low,13
+251,Balanced,Vanguard Total Stock Market Index Fund,543755.64,Moderate,2/8/2013,-36.71,52,Low,30
+252,Balanced,Fidelity 500 Index Fund,198301.06,Aggressive,11/2/2012,-44.06,74,High,13
+253,Balanced,Vanguard Total Stock Market Index Fund,495479.58,Moderate,5/22/2012,24.57,76,Medium,22
+254,Balanced,Fidelity 500 Index Fund,100277.39,Moderate,10/11/2014,5.39,38,Medium,29
+255,Fixed Income,Fidelity 500 Index Fund,721890.68,Aggressive,3/1/2021,33.87,59,High,25
+256,Balanced,Fidelity 500 Index Fund,316348.3,Moderate,11/27/2011,-39.59,33,High,3
+257,Equity,Fidelity 500 Index Fund,380222.88,Aggressive,8/25/2011,8.61,25,Medium,1
+258,Equity,Vanguard Total Stock Market Index Fund,275116.5,Aggressive,8/5/2019,13.02,37,High,18
+259,Balanced,BlackRock Global Allocation Fund,861539.25,Conservative,3/14/2020,1.77,27,Medium,29
+260,Balanced,Fidelity 500 Index Fund,40061.35,Aggressive,4/4/2013,-36.75,76,High,4
+261,Fixed Income,Fidelity 500 Index Fund,189297.3,Conservative,3/26/2021,11.3,31,Medium,22
+262,Balanced,BlackRock Global Allocation Fund,515923.97,Conservative,11/23/2012,14.03,49,Low,28
+263,Fixed Income,Fidelity 500 Index Fund,358567.42,Aggressive,5/22/2021,38.09,37,Medium,25
+264,Balanced,Fidelity 500 Index Fund,841855.12,Moderate,6/20/2012,29.86,69,Low,21
+265,Equity,Vanguard Total Stock Market Index Fund,881231.74,Conservative,1/29/2015,29.1,48,High,5
+266,Equity,Fidelity 500 Index Fund,851370.09,Moderate,10/11/2020,15.35,71,Low,3
+267,Balanced,Fidelity 500 Index Fund,125163.72,Moderate,12/24/2019,-27.89,74,Low,14
+268,Fixed Income,Fidelity 500 Index Fund,753941.75,Moderate,11/3/2010,-9.27,64,High,24
+269,Equity,Vanguard Total Stock Market Index Fund,147402.97,Moderate,9/11/2011,3.15,46,Medium,18
+270,Balanced,BlackRock Global Allocation Fund,979776.89,Conservative,5/26/2014,-28.26,74,Low,9
+271,Fixed Income,BlackRock Global Allocation Fund,713302.11,Aggressive,12/30/2011,27.02,33,High,10
+272,Balanced,BlackRock Global Allocation Fund,145486.21,Aggressive,1/28/2021,27.18,69,Medium,5
+273,Fixed Income,Fidelity 500 Index Fund,201059.92,Moderate,11/8/2012,-25.73,55,Low,12
+274,Balanced,Fidelity 500 Index Fund,857829.85,Moderate,4/2/2010,-27.67,30,Low,5
+275,Fixed Income,Vanguard Total Stock Market Index Fund,393112.65,Moderate,6/18/2015,45.97,76,Medium,22
+276,Balanced,Fidelity 500 Index Fund,821156.76,Aggressive,5/5/2014,-25.22,85,Medium,29
+277,Balanced,Vanguard Total Stock Market Index Fund,788441.45,Conservative,5/22/2014,-10.97,34,Low,19
+278,Equity,Fidelity 500 Index Fund,297903.67,Aggressive,4/13/2012,-4.43,53,Medium,27
+279,Equity,Fidelity 500 Index Fund,813242.56,Aggressive,1/16/2016,-23.53,83,Low,27
+280,Fixed Income,Fidelity 500 Index Fund,178167.53,Moderate,11/27/2017,-0.8,79,Low,1
+281,Equity,Fidelity 500 Index Fund,590053.41,Aggressive,8/21/2019,-34.65,85,Medium,13
+282,Equity,BlackRock Global Allocation Fund,795566.1,Moderate,7/27/2014,30.08,72,Low,20
+283,Fixed Income,Vanguard Total Stock Market Index Fund,749930.67,Moderate,3/16/2021,-15.66,45,Medium,19
+284,Fixed Income,BlackRock Global Allocation Fund,377816.87,Conservative,8/24/2015,-37.81,74,High,22
+285,Fixed Income,Fidelity 500 Index Fund,879277.16,Conservative,8/26/2017,14.31,24,Medium,13
+286,Equity,Fidelity 500 Index Fund,1527.63,Aggressive,6/30/2016,12.72,56,Low,24
+287,Fixed Income,Fidelity 500 Index Fund,211205.05,Conservative,1/10/2013,-24.68,61,High,14
+288,Fixed Income,Fidelity 500 Index Fund,248136.22,Conservative,6/7/2017,38.56,74,High,29
+289,Fixed Income,Vanguard Total Stock Market Index Fund,309547.66,Conservative,3/1/2010,45.59,60,Medium,3
+290,Equity,Vanguard Total Stock Market Index Fund,790726.15,Moderate,6/18/2010,49.88,40,High,20
+291,Fixed Income,Vanguard Total Stock Market Index Fund,6429.03,Aggressive,10/10/2015,31.17,56,Medium,5
+292,Equity,BlackRock Global Allocation Fund,485332.14,Conservative,3/8/2014,33.69,58,Low,28
+293,Fixed Income,BlackRock Global Allocation Fund,965010.59,Aggressive,1/18/2013,12.04,29,High,6
+294,Balanced,Vanguard Total Stock Market Index Fund,290883.47,Conservative,6/24/2020,-2.81,77,Medium,2
+295,Fixed Income,Fidelity 500 Index Fund,741729.55,Conservative,10/1/2018,12.5,20,Low,17
+296,Fixed Income,BlackRock Global Allocation Fund,762593.23,Moderate,12/16/2016,-35.96,46,High,16
+297,Fixed Income,Vanguard Total Stock Market Index Fund,361282.94,Moderate,12/5/2019,29.57,42,Medium,25
+298,Equity,Fidelity 500 Index Fund,48919.07,Conservative,9/1/2021,-31.24,68,Low,13
+299,Fixed Income,Vanguard Total Stock Market Index Fund,782585.76,Moderate,8/2/2012,7.43,74,Medium,14
+300,Balanced,Fidelity 500 Index Fund,365669.53,Aggressive,1/7/2015,-24.27,54,High,9
+301,Balanced,Vanguard Total Stock Market Index Fund,553523.32,Moderate,1/6/2019,29.09,81,High,27
+302,Equity,Fidelity 500 Index Fund,396443.22,Moderate,5/30/2013,47.47,72,Low,14
+303,Balanced,Vanguard Total Stock Market Index Fund,416022.8,Conservative,12/25/2011,11.7,44,Low,14
+304,Equity,BlackRock Global Allocation Fund,814676.66,Moderate,4/30/2016,24.88,77,High,28
+305,Fixed Income,Fidelity 500 Index Fund,460151.77,Aggressive,8/4/2016,47.65,46,High,12
+306,Fixed Income,BlackRock Global Allocation Fund,821011.05,Conservative,12/1/2020,42.95,72,Low,13
+307,Balanced,Fidelity 500 Index Fund,479810.63,Moderate,5/7/2016,-18.95,48,Medium,29
+308,Balanced,Fidelity 500 Index Fund,555166.74,Moderate,9/25/2020,-32.39,58,Low,23
+309,Fixed Income,BlackRock Global Allocation Fund,160577.79,Aggressive,12/15/2020,49.38,31,High,4
+310,Fixed Income,Fidelity 500 Index Fund,662826.21,Conservative,12/27/2018,30.38,45,Low,3
+311,Equity,Vanguard Total Stock Market Index Fund,409851.28,Moderate,10/30/2015,-26.38,21,Medium,26
+312,Equity,Fidelity 500 Index Fund,690099.31,Conservative,2/13/2021,-48.19,54,Medium,3
+313,Equity,Vanguard Total Stock Market Index Fund,570629.48,Aggressive,12/3/2014,22.08,37,High,24
+314,Balanced,Fidelity 500 Index Fund,154294.39,Moderate,10/6/2020,46.28,19,High,8
+315,Balanced,BlackRock Global Allocation Fund,707655.97,Moderate,8/9/2020,16.52,47,High,26
+316,Equity,Vanguard Total Stock Market Index Fund,493759.78,Aggressive,9/23/2017,25.53,24,Low,30
+317,Fixed Income,Fidelity 500 Index Fund,808668.26,Conservative,1/18/2014,36.77,49,Medium,16
+318,Equity,BlackRock Global Allocation Fund,461826.19,Conservative,4/17/2016,-7.2,30,Low,5
+319,Equity,Fidelity 500 Index Fund,178770.25,Aggressive,4/20/2014,11.23,36,Medium,27
+320,Equity,BlackRock Global Allocation Fund,674159.37,Aggressive,6/3/2018,4.68,25,Medium,16
+321,Balanced,Vanguard Total Stock Market Index Fund,431181.69,Aggressive,3/15/2016,7.28,84,Low,20
+322,Equity,Fidelity 500 Index Fund,257388.31,Aggressive,6/25/2011,26.57,19,High,8
+323,Fixed Income,BlackRock Global Allocation Fund,136385.73,Moderate,5/1/2021,27.5,66,High,6
+324,Equity,BlackRock Global Allocation Fund,272361.23,Moderate,9/22/2018,12.1,36,High,13
+325,Equity,Vanguard Total Stock Market Index Fund,13095.83,Moderate,5/25/2017,42.46,71,High,22
+326,Balanced,Vanguard Total Stock Market Index Fund,878013.21,Aggressive,1/23/2017,-24.82,73,High,29
+327,Fixed Income,Fidelity 500 Index Fund,890249.97,Moderate,6/30/2010,49.41,69,High,19
+328,Balanced,BlackRock Global Allocation Fund,683145.41,Aggressive,3/14/2013,15.99,56,Low,28
+329,Fixed Income,Fidelity 500 Index Fund,903550.7,Moderate,12/20/2020,-11.95,73,Low,22
+330,Balanced,Vanguard Total Stock Market Index Fund,688034.8,Aggressive,12/26/2017,-0.83,79,Medium,14
+331,Balanced,Vanguard Total Stock Market Index Fund,713843.67,Moderate,3/21/2021,16.01,48,Medium,7
+332,Equity,Vanguard Total Stock Market Index Fund,970358.01,Aggressive,12/19/2011,-12.43,78,High,2
+333,Fixed Income,Vanguard Total Stock Market Index Fund,869779.19,Conservative,7/19/2020,23.35,62,Medium,23
+334,Equity,BlackRock Global Allocation Fund,728836.45,Conservative,3/2/2012,13.31,81,Low,21
+335,Equity,BlackRock Global Allocation Fund,864265.83,Conservative,8/25/2019,-24.16,23,Low,6
+336,Fixed Income,Vanguard Total Stock Market Index Fund,876061.94,Moderate,7/16/2015,28.16,81,Medium,30
+337,Fixed Income,BlackRock Global Allocation Fund,559971.59,Conservative,12/3/2010,12.64,81,Low,2
+338,Equity,Fidelity 500 Index Fund,747017.83,Conservative,1/24/2016,-21.7,62,Medium,7
+339,Balanced,Vanguard Total Stock Market Index Fund,852025.5,Moderate,10/21/2015,19.84,46,Low,3
+340,Fixed Income,Fidelity 500 Index Fund,323944.71,Conservative,12/27/2011,35.87,29,Medium,11
+341,Balanced,Fidelity 500 Index Fund,946279.04,Moderate,4/1/2010,-15.91,69,Medium,21
+342,Fixed Income,Fidelity 500 Index Fund,921535.61,Moderate,12/26/2011,21.65,85,High,20
+343,Fixed Income,Vanguard Total Stock Market Index Fund,890660.37,Conservative,2/21/2018,-34.7,75,Low,25
+344,Equity,Vanguard Total Stock Market Index Fund,25056.53,Moderate,10/9/2013,39.74,22,Low,9
+345,Balanced,Fidelity 500 Index Fund,869612.09,Moderate,3/22/2014,-3.63,53,Medium,1
+346,Equity,Vanguard Total Stock Market Index Fund,18883.76,Moderate,1/12/2012,19.03,72,Medium,27
+347,Balanced,Vanguard Total Stock Market Index Fund,881291.32,Conservative,6/2/2014,-27.68,32,Medium,8
+348,Balanced,BlackRock Global Allocation Fund,656916.07,Conservative,4/28/2011,11.04,56,Medium,12
+349,Fixed Income,Vanguard Total Stock Market Index Fund,351542.65,Aggressive,9/30/2020,-26.92,40,Medium,27
+350,Fixed Income,Vanguard Total Stock Market Index Fund,277921.38,Aggressive,10/8/2010,15.29,18,High,2
+351,Fixed Income,Vanguard Total Stock Market Index Fund,559934.37,Conservative,11/20/2015,-22.54,35,Medium,10
+352,Equity,Fidelity 500 Index Fund,863225.68,Conservative,8/13/2015,38.0,31,High,28
+353,Equity,Fidelity 500 Index Fund,378082.2,Moderate,9/3/2013,2.19,66,Medium,23
+354,Balanced,Vanguard Total Stock Market Index Fund,390988.32,Moderate,12/16/2016,2.91,32,Medium,14
+355,Fixed Income,BlackRock Global Allocation Fund,642886.19,Aggressive,1/16/2021,-7.0,85,High,8
+356,Equity,Vanguard Total Stock Market Index Fund,466542.81,Conservative,5/11/2013,-5.71,37,Medium,20
+357,Fixed Income,Vanguard Total Stock Market Index Fund,677410.63,Aggressive,7/14/2018,-28.66,77,High,1
+358,Equity,Fidelity 500 Index Fund,88268.88,Conservative,6/23/2015,22.99,32,Medium,27
+359,Balanced,Fidelity 500 Index Fund,350607.73,Moderate,6/26/2019,-26.65,78,Medium,24
+360,Balanced,Vanguard Total Stock Market Index Fund,959874.68,Conservative,11/6/2020,24.08,28,High,21
+361,Balanced,Fidelity 500 Index Fund,796864.85,Moderate,12/24/2011,28.9,36,Low,11
+362,Balanced,Fidelity 500 Index Fund,355671.32,Conservative,12/15/2010,2.33,82,High,4
+363,Balanced,BlackRock Global Allocation Fund,902552.6,Conservative,3/22/2021,25.28,28,Low,18
+364,Fixed Income,BlackRock Global Allocation Fund,570339.06,Conservative,3/17/2013,43.43,78,Low,13
+365,Equity,Fidelity 500 Index Fund,944419.25,Moderate,5/7/2017,-29.13,59,Medium,28
+366,Equity,Vanguard Total Stock Market Index Fund,24031.25,Aggressive,7/22/2021,33.31,39,High,11
+367,Balanced,BlackRock Global Allocation Fund,97800.06,Conservative,10/21/2021,-16.37,39,High,28
+368,Equity,Fidelity 500 Index Fund,270793.97,Moderate,5/4/2018,-21.6,48,Medium,20
+369,Equity,Vanguard Total Stock Market Index Fund,919921.32,Moderate,2/28/2018,27.27,23,Low,24
+370,Fixed Income,Vanguard Total Stock Market Index Fund,35199.19,Conservative,5/2/2016,-39.56,51,Low,3
+371,Equity,BlackRock Global Allocation Fund,667664.2,Aggressive,10/15/2014,-7.39,30,Low,18
+372,Balanced,BlackRock Global Allocation Fund,306724.56,Aggressive,5/14/2018,22.23,83,Low,7
+373,Fixed Income,Vanguard Total Stock Market Index Fund,126587.53,Aggressive,7/24/2013,12.37,37,Medium,14
+374,Equity,BlackRock Global Allocation Fund,749859.53,Moderate,7/26/2010,-46.75,73,Low,11
+375,Balanced,Vanguard Total Stock Market Index Fund,967668.78,Conservative,12/10/2014,-8.9,44,High,29
+376,Fixed Income,Vanguard Total Stock Market Index Fund,397580.95,Moderate,12/31/2016,39.38,45,Low,22
+377,Fixed Income,Fidelity 500 Index Fund,769205.77,Moderate,8/16/2014,-32.33,34,Medium,23
+378,Equity,Fidelity 500 Index Fund,485046.53,Aggressive,12/25/2010,9.46,58,Medium,11
+379,Equity,BlackRock Global Allocation Fund,643351.15,Aggressive,6/25/2021,-31.05,72,High,22
+380,Balanced,Vanguard Total Stock Market Index Fund,733835.72,Conservative,10/3/2016,-14.13,33,Medium,23
+381,Fixed Income,Vanguard Total Stock Market Index Fund,230394.33,Conservative,5/1/2021,-27.25,79,Low,6
+382,Equity,Fidelity 500 Index Fund,440575.13,Conservative,4/20/2011,39.21,85,Low,16
+383,Balanced,Vanguard Total Stock Market Index Fund,128013.35,Conservative,8/28/2021,-9.01,61,Low,24
+384,Balanced,Fidelity 500 Index Fund,951500.15,Conservative,9/24/2016,-15.01,44,Medium,10
+385,Equity,Vanguard Total Stock Market Index Fund,523967.93,Aggressive,12/10/2019,-15.71,63,High,29
+386,Fixed Income,Fidelity 500 Index Fund,824141.81,Conservative,7/11/2021,-40.82,76,Low,25
+387,Equity,Vanguard Total Stock Market Index Fund,142077.44,Conservative,4/26/2012,-18.33,41,High,7
+388,Balanced,Fidelity 500 Index Fund,354292.68,Aggressive,9/11/2016,-22.85,73,High,13
+389,Equity,BlackRock Global Allocation Fund,502924.25,Conservative,12/13/2012,2.75,43,Medium,26
+390,Equity,Fidelity 500 Index Fund,518777.87,Conservative,8/16/2017,-47.06,79,Medium,1
+391,Fixed Income,Fidelity 500 Index Fund,245614.9,Conservative,7/15/2020,-43.83,77,High,23
+392,Balanced,Fidelity 500 Index Fund,374311.83,Moderate,12/8/2016,-46.64,51,Low,23
+393,Balanced,Fidelity 500 Index Fund,684117.72,Aggressive,8/1/2014,14.59,27,Low,10
+394,Fixed Income,Fidelity 500 Index Fund,890781.75,Moderate,8/22/2012,-11.09,77,Low,17
+395,Fixed Income,BlackRock Global Allocation Fund,712126.22,Aggressive,2/8/2020,5.54,69,High,15
+396,Balanced,Fidelity 500 Index Fund,316147.87,Conservative,11/22/2021,45.04,75,Medium,9
+397,Balanced,BlackRock Global Allocation Fund,502372.19,Aggressive,4/5/2013,3.52,32,Medium,14
+398,Equity,BlackRock Global Allocation Fund,502953.18,Conservative,6/24/2015,30.57,36,Low,20
+399,Equity,Fidelity 500 Index Fund,61456.12,Conservative,9/13/2016,12.99,63,High,6
+400,Equity,Vanguard Total Stock Market Index Fund,132679.35,Aggressive,9/5/2020,33.8,76,High,7
+401,Equity,Vanguard Total Stock Market Index Fund,433212.23,Conservative,11/1/2010,29.53,74,Medium,10
+402,Equity,Fidelity 500 Index Fund,132472.32,Conservative,11/22/2010,-28.16,26,Medium,4
+403,Equity,Vanguard Total Stock Market Index Fund,555795.81,Moderate,6/9/2012,-43.13,40,Low,17
+404,Fixed Income,Fidelity 500 Index Fund,488192.59,Moderate,7/25/2013,-17.55,80,Low,12
+405,Fixed Income,BlackRock Global Allocation Fund,883257.73,Moderate,9/15/2019,47.44,49,High,24
+406,Fixed Income,Fidelity 500 Index Fund,82917.57,Aggressive,11/4/2013,-20.99,79,Low,28
+407,Fixed Income,Fidelity 500 Index Fund,609773.97,Aggressive,10/11/2019,2.37,64,Low,22
+408,Balanced,BlackRock Global Allocation Fund,561795.65,Moderate,12/1/2014,9.42,63,Medium,28
+409,Fixed Income,Fidelity 500 Index Fund,668380.71,Conservative,12/27/2014,14.1,67,Medium,22
+410,Fixed Income,Vanguard Total Stock Market Index Fund,693136.4,Aggressive,10/13/2019,-38.46,85,Low,14
+411,Equity,Vanguard Total Stock Market Index Fund,86332.4,Moderate,6/4/2018,-38.76,34,Medium,6
+412,Equity,BlackRock Global Allocation Fund,427682.92,Conservative,6/29/2016,-9.49,35,Medium,7
+413,Fixed Income,Fidelity 500 Index Fund,792046.72,Moderate,5/21/2021,-48.64,22,Low,16
+414,Fixed Income,Vanguard Total Stock Market Index Fund,562517.54,Aggressive,2/28/2011,-24.25,45,High,7
+415,Equity,Fidelity 500 Index Fund,568769.18,Conservative,5/6/2020,45.58,55,High,2
+416,Equity,BlackRock Global Allocation Fund,350491.95,Moderate,11/12/2020,-10.61,52,Medium,2
+417,Balanced,Fidelity 500 Index Fund,383308.85,Moderate,2/19/2021,23.41,19,High,27
+418,Fixed Income,Vanguard Total Stock Market Index Fund,894116.61,Moderate,6/10/2014,-24.91,18,Medium,10
+419,Equity,Vanguard Total Stock Market Index Fund,946991.96,Aggressive,11/15/2016,46.49,67,High,22
+420,Fixed Income,BlackRock Global Allocation Fund,534856.27,Aggressive,10/17/2019,-24.65,27,Low,8
+421,Balanced,Fidelity 500 Index Fund,32535.81,Aggressive,2/21/2010,25.93,32,High,17
+422,Fixed Income,Fidelity 500 Index Fund,435523.35,Aggressive,8/18/2012,-34.56,43,High,23
+423,Balanced,Fidelity 500 Index Fund,329849.22,Conservative,6/6/2020,15.23,43,High,22
+424,Fixed Income,Fidelity 500 Index Fund,451521.46,Aggressive,3/1/2014,29.18,84,High,11
+425,Fixed Income,BlackRock Global Allocation Fund,359037.13,Moderate,9/10/2010,4.49,64,High,13
+426,Fixed Income,BlackRock Global Allocation Fund,487008.99,Aggressive,11/28/2012,11.08,35,Medium,8
+427,Equity,BlackRock Global Allocation Fund,167545.56,Aggressive,2/21/2016,7.69,21,High,28
+428,Fixed Income,Vanguard Total Stock Market Index Fund,498417.93,Moderate,8/6/2016,11.73,29,High,17
+429,Fixed Income,Vanguard Total Stock Market Index Fund,311755.32,Aggressive,1/12/2010,-34.25,18,Low,24
+430,Fixed Income,BlackRock Global Allocation Fund,128275.43,Conservative,9/17/2011,39.59,20,High,23
+431,Balanced,Fidelity 500 Index Fund,861298.66,Moderate,5/3/2019,-38.08,37,High,23
+432,Fixed Income,Vanguard Total Stock Market Index Fund,956810.89,Aggressive,12/28/2010,15.93,45,Low,2
+433,Balanced,Fidelity 500 Index Fund,834133.3,Aggressive,12/26/2018,-22.65,24,High,12
+434,Equity,Vanguard Total Stock Market Index Fund,879948.96,Conservative,2/28/2020,-46.31,18,High,23
+435,Fixed Income,Vanguard Total Stock Market Index Fund,500970.38,Moderate,8/21/2021,17.25,58,High,15
+436,Balanced,Fidelity 500 Index Fund,502789.37,Conservative,1/27/2014,-46.75,69,Low,1
+437,Fixed Income,Fidelity 500 Index Fund,152102.92,Aggressive,10/22/2017,-12.64,40,Low,17
+438,Balanced,Fidelity 500 Index Fund,552399.09,Moderate,3/20/2020,24.93,39,Low,10
+439,Fixed Income,Fidelity 500 Index Fund,375777.17,Moderate,7/2/2015,1.37,85,Low,15
+440,Fixed Income,Fidelity 500 Index Fund,707179.65,Aggressive,4/26/2013,-39.23,43,Low,27
+441,Equity,BlackRock Global Allocation Fund,276153.57,Conservative,12/13/2019,-37.55,46,Medium,15
+442,Equity,Vanguard Total Stock Market Index Fund,808139.97,Moderate,1/26/2017,39.86,52,Medium,27
+443,Balanced,BlackRock Global Allocation Fund,809043.84,Conservative,11/10/2010,22.08,63,Medium,4
+444,Balanced,Vanguard Total Stock Market Index Fund,145981.12,Moderate,11/25/2010,14.99,69,Low,1
+445,Fixed Income,Vanguard Total Stock Market Index Fund,161543.07,Moderate,3/23/2012,-16.92,47,Medium,19
+446,Balanced,Vanguard Total Stock Market Index Fund,997692.06,Aggressive,5/21/2018,-43.66,59,Low,12
+447,Equity,Vanguard Total Stock Market Index Fund,172655.99,Conservative,7/31/2015,-41.6,57,Medium,15
+448,Fixed Income,Vanguard Total Stock Market Index Fund,311660.92,Aggressive,5/30/2021,-6.32,61,High,12
+449,Fixed Income,Vanguard Total Stock Market Index Fund,751502.48,Conservative,4/9/2018,-36.0,84,High,10
+450,Fixed Income,BlackRock Global Allocation Fund,848799.79,Aggressive,7/19/2019,30.75,40,Medium,6
+451,Equity,Vanguard Total Stock Market Index Fund,374293.19,Conservative,11/27/2020,30.1,64,Medium,7
+452,Equity,Vanguard Total Stock Market Index Fund,779361.33,Aggressive,8/27/2010,42.08,53,Medium,20
+453,Equity,Fidelity 500 Index Fund,274720.45,Conservative,4/8/2020,18.95,77,Low,19
+454,Equity,Vanguard Total Stock Market Index Fund,957368.13,Aggressive,4/16/2021,-38.71,56,High,6
+455,Equity,Vanguard Total Stock Market Index Fund,731975.65,Moderate,8/7/2015,-28.8,47,Low,20
+456,Equity,Vanguard Total Stock Market Index Fund,21398.87,Aggressive,8/16/2011,22.27,18,Medium,29
+457,Fixed Income,Vanguard Total Stock Market Index Fund,740291.78,Aggressive,2/4/2020,-3.52,25,Low,24
+458,Balanced,Vanguard Total Stock Market Index Fund,675935.29,Conservative,7/3/2013,-47.5,37,Medium,7
+459,Equity,Fidelity 500 Index Fund,171105.28,Aggressive,9/14/2012,35.55,57,Medium,15
+460,Equity,Vanguard Total Stock Market Index Fund,962415.06,Moderate,12/3/2015,-49.1,64,Low,30
+461,Fixed Income,Fidelity 500 Index Fund,303826.31,Conservative,1/19/2016,23.38,49,Medium,24
+462,Equity,Vanguard Total Stock Market Index Fund,348384.81,Moderate,10/6/2019,36.35,33,Medium,3
+463,Equity,BlackRock Global Allocation Fund,726949.45,Aggressive,4/6/2020,48.71,64,Medium,8
+464,Fixed Income,BlackRock Global Allocation Fund,371716.68,Conservative,2/26/2010,46.61,77,Medium,1
+465,Fixed Income,BlackRock Global Allocation Fund,883899.56,Moderate,3/11/2018,-46.4,78,Low,5
+466,Equity,BlackRock Global Allocation Fund,483373.39,Moderate,8/22/2011,15.78,72,Medium,29
+467,Equity,Fidelity 500 Index Fund,366689.69,Conservative,6/11/2015,-36.2,45,Medium,9
+468,Balanced,Fidelity 500 Index Fund,322145.57,Moderate,11/6/2011,38.68,34,Medium,9
+469,Balanced,Vanguard Total Stock Market Index Fund,334634.98,Moderate,6/28/2020,-38.35,35,High,12
+470,Balanced,BlackRock Global Allocation Fund,302299.17,Conservative,9/4/2013,6.55,69,High,13
+471,Equity,BlackRock Global Allocation Fund,859813.02,Aggressive,9/11/2010,34.13,32,Low,10
+472,Fixed Income,Vanguard Total Stock Market Index Fund,194893.48,Aggressive,11/15/2015,6.33,82,Low,29
+473,Equity,BlackRock Global Allocation Fund,810965.29,Moderate,12/13/2013,7.46,41,Low,12
+474,Fixed Income,Vanguard Total Stock Market Index Fund,91010.53,Aggressive,5/11/2020,-14.97,70,Low,5
+475,Balanced,BlackRock Global Allocation Fund,900697.87,Aggressive,1/17/2019,-32.79,62,Low,24
+476,Equity,BlackRock Global Allocation Fund,690107.13,Moderate,6/7/2013,30.5,42,Medium,8
+477,Fixed Income,Vanguard Total Stock Market Index Fund,131044.6,Conservative,3/25/2013,-5.68,76,Low,24
+478,Fixed Income,Vanguard Total Stock Market Index Fund,226820.41,Aggressive,12/10/2015,-11.3,39,High,27
+479,Balanced,BlackRock Global Allocation Fund,585170.37,Conservative,4/29/2021,-21.16,36,Low,10
+480,Equity,Vanguard Total Stock Market Index Fund,317442.66,Conservative,2/1/2010,36.13,76,Low,28
+481,Balanced,BlackRock Global Allocation Fund,119058.83,Moderate,7/30/2018,40.33,61,Medium,4
+482,Fixed Income,BlackRock Global Allocation Fund,990763.23,Aggressive,4/2/2021,-10.98,38,High,26
+483,Fixed Income,Fidelity 500 Index Fund,903701.31,Conservative,10/23/2019,48.31,63,High,29
+484,Balanced,BlackRock Global Allocation Fund,748232.97,Conservative,4/3/2010,45.35,82,Medium,29
+485,Fixed Income,BlackRock Global Allocation Fund,541371.71,Conservative,9/26/2012,-24.5,30,Low,25
+486,Equity,Fidelity 500 Index Fund,316182.18,Aggressive,12/31/2020,23.3,36,Medium,5
+487,Balanced,Fidelity 500 Index Fund,328916.47,Moderate,7/22/2021,-13.63,53,Low,6
+488,Fixed Income,Vanguard Total Stock Market Index Fund,328301.33,Moderate,10/19/2013,-34.13,77,Medium,24
+489,Fixed Income,BlackRock Global Allocation Fund,408036.79,Aggressive,3/8/2018,23.93,45,High,6
+490,Balanced,Vanguard Total Stock Market Index Fund,369693.02,Moderate,7/9/2011,-1.88,47,High,26
+491,Equity,BlackRock Global Allocation Fund,176818.93,Moderate,9/22/2013,38.82,39,High,5
+492,Balanced,Fidelity 500 Index Fund,223858.6,Conservative,5/25/2011,-23.47,75,Low,20
+493,Fixed Income,Vanguard Total Stock Market Index Fund,850712.62,Aggressive,4/25/2019,-29.03,19,Medium,21
+494,Balanced,BlackRock Global Allocation Fund,491813.57,Aggressive,10/21/2016,42.47,28,Low,6
+495,Balanced,BlackRock Global Allocation Fund,480183.7,Moderate,11/24/2015,48.69,32,Low,2
+496,Fixed Income,Fidelity 500 Index Fund,600478.52,Aggressive,10/28/2017,16.17,63,Medium,30
+497,Equity,BlackRock Global Allocation Fund,452536.37,Aggressive,11/3/2021,-18.12,69,Low,4
+498,Balanced,Vanguard Total Stock Market Index Fund,833589.62,Conservative,6/6/2010,-21.82,85,High,16
+499,Equity,Vanguard Total Stock Market Index Fund,187135.88,Aggressive,6/28/2015,24.91,21,High,16
+500,Balanced,BlackRock Global Allocation Fund,498855.43,Conservative,8/7/2013,14.34,33,High,11
+501,Equity,Vanguard Total Stock Market Index Fund,701760.73,Moderate,4/3/2012,21.68,39,Medium,23
+502,Equity,BlackRock Global Allocation Fund,285596.35,Conservative,9/16/2020,-5.15,18,Medium,23
+503,Equity,Vanguard Total Stock Market Index Fund,563827.93,Aggressive,4/3/2011,46.92,53,Medium,5
+504,Fixed Income,Vanguard Total Stock Market Index Fund,686377.03,Aggressive,6/14/2018,33.3,67,Low,22
+505,Fixed Income,BlackRock Global Allocation Fund,893242.05,Moderate,8/28/2020,-45.22,69,Medium,12
+506,Fixed Income,Fidelity 500 Index Fund,556038.53,Conservative,3/29/2011,-14.87,60,Low,17
+507,Balanced,Vanguard Total Stock Market Index Fund,150296.92,Aggressive,7/14/2011,-27.62,49,Medium,25
+508,Balanced,Fidelity 500 Index Fund,79452.63,Aggressive,2/12/2014,9.57,54,Low,27
+509,Balanced,Vanguard Total Stock Market Index Fund,441140.19,Aggressive,9/19/2013,22.61,76,Low,19
+510,Equity,Vanguard Total Stock Market Index Fund,102625.26,Moderate,10/27/2018,-21.07,74,Low,22
+511,Fixed Income,Fidelity 500 Index Fund,890995.41,Aggressive,10/12/2014,18.17,43,Low,10
+512,Equity,BlackRock Global Allocation Fund,299990.48,Conservative,12/3/2011,34.04,34,Medium,23
+513,Equity,Fidelity 500 Index Fund,317970.38,Aggressive,7/13/2014,7.89,44,Low,15
+514,Fixed Income,Vanguard Total Stock Market Index Fund,365754.13,Aggressive,1/5/2016,23.46,56,Low,16
+515,Fixed Income,Fidelity 500 Index Fund,437304.85,Aggressive,9/5/2016,-30.68,30,Low,7
+516,Fixed Income,BlackRock Global Allocation Fund,905976.23,Aggressive,3/2/2012,28.18,19,Medium,28
+517,Fixed Income,BlackRock Global Allocation Fund,150118.12,Conservative,11/12/2017,22.33,42,High,20
+518,Fixed Income,Vanguard Total Stock Market Index Fund,914922.33,Aggressive,9/13/2015,-5.11,45,Medium,28
+519,Balanced,BlackRock Global Allocation Fund,16694.42,Conservative,8/8/2014,-34.5,73,High,28
+520,Fixed Income,Fidelity 500 Index Fund,505167.44,Conservative,7/27/2014,12.34,84,Medium,19
+521,Equity,Fidelity 500 Index Fund,383184.62,Conservative,1/19/2012,40.41,22,Medium,4
+522,Balanced,BlackRock Global Allocation Fund,552276.72,Conservative,10/22/2013,14.45,68,High,17
+523,Equity,BlackRock Global Allocation Fund,226034.97,Moderate,3/19/2018,-4.92,71,Medium,30
+524,Fixed Income,Fidelity 500 Index Fund,324483.42,Aggressive,9/23/2013,-0.81,84,Low,21
+525,Fixed Income,BlackRock Global Allocation Fund,302703.22,Moderate,1/10/2011,8.55,77,High,11
+526,Balanced,BlackRock Global Allocation Fund,133011.02,Conservative,2/5/2016,45.31,62,Low,23
+527,Equity,BlackRock Global Allocation Fund,778665.67,Aggressive,5/2/2021,-2.9,57,Low,2
+528,Equity,BlackRock Global Allocation Fund,457002.14,Aggressive,1/19/2021,11.53,21,High,18
+529,Equity,Vanguard Total Stock Market Index Fund,129027.51,Moderate,11/23/2021,-19.43,19,Low,27
+530,Equity,BlackRock Global Allocation Fund,776964.5,Conservative,4/25/2013,-13.33,20,High,14
+531,Fixed Income,Fidelity 500 Index Fund,255210.45,Conservative,4/13/2014,16.8,79,High,11
+532,Fixed Income,Fidelity 500 Index Fund,530711.9,Aggressive,12/2/2014,10.29,49,High,7
+533,Equity,BlackRock Global Allocation Fund,795474.48,Conservative,5/31/2021,49.61,49,Medium,28
+534,Equity,Vanguard Total Stock Market Index Fund,373493.33,Moderate,7/10/2012,30.3,39,High,4
+535,Balanced,BlackRock Global Allocation Fund,218889.73,Aggressive,9/22/2018,0.18,70,Low,4
+536,Equity,BlackRock Global Allocation Fund,919188.9,Moderate,4/15/2017,-33.21,50,Medium,19
+537,Equity,Fidelity 500 Index Fund,472814.59,Aggressive,1/16/2011,-49.1,69,Low,7
+538,Equity,Fidelity 500 Index Fund,469804.52,Aggressive,12/6/2014,-40.35,83,Low,8
+539,Fixed Income,Fidelity 500 Index Fund,585041.54,Moderate,5/11/2020,34.39,53,Medium,15
+540,Equity,BlackRock Global Allocation Fund,51555.56,Aggressive,8/1/2016,40.77,18,High,30
+541,Balanced,Fidelity 500 Index Fund,844498.18,Aggressive,5/31/2020,-33.48,24,Low,10
+542,Balanced,Fidelity 500 Index Fund,712374.96,Aggressive,6/23/2016,45.55,18,Low,17
+543,Equity,Fidelity 500 Index Fund,751079.39,Aggressive,2/20/2014,-0.77,26,High,28
+544,Fixed Income,Fidelity 500 Index Fund,619169.48,Moderate,4/25/2014,-27.27,82,High,2
+545,Equity,Vanguard Total Stock Market Index Fund,299756.61,Conservative,9/23/2019,29.18,70,Medium,28
+546,Balanced,Fidelity 500 Index Fund,64733.07,Conservative,4/16/2015,48.14,43,Low,18
+547,Balanced,BlackRock Global Allocation Fund,532050.17,Moderate,1/9/2019,21.63,52,Medium,4
+548,Balanced,Fidelity 500 Index Fund,820312.4,Moderate,12/1/2012,-49.33,78,Medium,10
+549,Fixed Income,BlackRock Global Allocation Fund,359258.71,Conservative,2/5/2010,33.82,42,Low,13
+550,Fixed Income,Fidelity 500 Index Fund,244915.47,Aggressive,2/9/2021,-47.42,41,High,23
+551,Equity,Fidelity 500 Index Fund,2502.8,Conservative,10/19/2010,-42.95,32,High,17
+552,Equity,Fidelity 500 Index Fund,741917.63,Moderate,5/20/2011,-44.57,42,Medium,29
+553,Balanced,Vanguard Total Stock Market Index Fund,607330.45,Moderate,1/19/2018,-26.87,84,Low,28
+554,Balanced,BlackRock Global Allocation Fund,600373.69,Aggressive,11/9/2014,-22.67,80,High,19
+555,Equity,Vanguard Total Stock Market Index Fund,364232.79,Moderate,4/28/2017,9.21,24,High,27
+556,Balanced,Vanguard Total Stock Market Index Fund,50476.24,Aggressive,11/19/2017,-10.14,37,Medium,17
+557,Equity,BlackRock Global Allocation Fund,837701.9,Moderate,7/22/2010,-40.3,72,Medium,23
+558,Balanced,BlackRock Global Allocation Fund,633936.25,Moderate,8/22/2012,-24.83,28,Medium,8
+559,Equity,Vanguard Total Stock Market Index Fund,533718.14,Aggressive,1/10/2017,-15.87,21,Low,20
+560,Fixed Income,Fidelity 500 Index Fund,90958.23,Aggressive,9/20/2017,-23.01,75,High,3
+561,Equity,Vanguard Total Stock Market Index Fund,367437.02,Conservative,8/1/2021,-5.61,39,Medium,17
+562,Equity,Vanguard Total Stock Market Index Fund,882971.84,Conservative,6/7/2014,34.47,42,Medium,27
+563,Balanced,BlackRock Global Allocation Fund,942422.7,Aggressive,1/25/2021,37.81,68,Low,28
+564,Fixed Income,Fidelity 500 Index Fund,265645.53,Conservative,8/28/2018,-2.52,26,Low,16
+565,Balanced,Vanguard Total Stock Market Index Fund,665361.61,Moderate,9/10/2014,-10.92,66,Low,14
+566,Fixed Income,Vanguard Total Stock Market Index Fund,465407.35,Conservative,12/15/2020,-27.87,50,High,16
+567,Equity,Vanguard Total Stock Market Index Fund,781467.57,Aggressive,8/19/2013,-7.72,45,Low,16
+568,Balanced,BlackRock Global Allocation Fund,316578.27,Conservative,8/24/2020,-12.13,46,Low,4
+569,Balanced,Fidelity 500 Index Fund,471733.34,Conservative,9/5/2018,38.18,18,Low,23
+570,Balanced,BlackRock Global Allocation Fund,548437.65,Conservative,6/28/2010,6.02,21,Medium,10
+571,Fixed Income,Fidelity 500 Index Fund,523934.82,Moderate,4/14/2013,-4.23,28,High,15
+572,Balanced,Vanguard Total Stock Market Index Fund,8485.65,Moderate,7/5/2010,-0.49,30,Low,24
+573,Balanced,Fidelity 500 Index Fund,399261.36,Conservative,1/10/2020,46.53,18,Medium,30
+574,Fixed Income,Vanguard Total Stock Market Index Fund,605162.01,Conservative,11/5/2013,-32.22,49,High,25
+575,Balanced,Fidelity 500 Index Fund,481589.84,Moderate,10/3/2021,36.02,84,High,16
+576,Equity,Vanguard Total Stock Market Index Fund,654630.33,Conservative,3/11/2018,36.16,78,Medium,15
+577,Fixed Income,Vanguard Total Stock Market Index Fund,911477.19,Aggressive,7/27/2017,4.71,73,High,7
+578,Equity,BlackRock Global Allocation Fund,483271.57,Moderate,11/17/2012,-27.8,72,High,21
+579,Fixed Income,Fidelity 500 Index Fund,719693.78,Moderate,6/19/2020,-9.48,59,Low,13
+580,Fixed Income,BlackRock Global Allocation Fund,296319.38,Aggressive,10/25/2010,-20.12,80,Medium,22
+581,Balanced,Vanguard Total Stock Market Index Fund,474299.81,Aggressive,9/28/2013,-48.31,38,High,2
+582,Fixed Income,Fidelity 500 Index Fund,578883.08,Aggressive,7/15/2021,-24.81,54,High,13
+583,Balanced,Fidelity 500 Index Fund,538242.5,Moderate,5/27/2021,-40.53,72,Medium,4
+584,Equity,Fidelity 500 Index Fund,103176.17,Moderate,5/31/2017,-17.9,84,Medium,30
+585,Equity,Fidelity 500 Index Fund,734816.45,Aggressive,2/23/2010,46.84,22,High,14
+586,Balanced,Vanguard Total Stock Market Index Fund,153414.52,Conservative,3/23/2018,-0.3,41,Medium,1
+587,Balanced,BlackRock Global Allocation Fund,660835.5,Moderate,9/5/2017,-28.58,75,High,23
+588,Equity,Fidelity 500 Index Fund,876645.35,Moderate,7/24/2010,1.31,44,Medium,30
+589,Balanced,Fidelity 500 Index Fund,592614.58,Conservative,4/19/2013,-4.89,83,High,14
+590,Balanced,BlackRock Global Allocation Fund,601501.55,Moderate,5/11/2011,-20.55,76,Medium,22
+591,Equity,BlackRock Global Allocation Fund,239475.49,Aggressive,9/10/2014,-13.21,35,Low,21
+592,Fixed Income,BlackRock Global Allocation Fund,584866.43,Conservative,2/2/2016,-26.64,73,High,1
+593,Fixed Income,Vanguard Total Stock Market Index Fund,308864.48,Moderate,11/23/2015,-37.25,46,Medium,20
+594,Equity,Vanguard Total Stock Market Index Fund,748827.86,Aggressive,7/1/2020,42.2,69,Low,11
+595,Fixed Income,Fidelity 500 Index Fund,54362.28,Aggressive,5/19/2020,-29.29,78,Low,7
+596,Fixed Income,Fidelity 500 Index Fund,676918.77,Conservative,1/25/2012,30.78,30,High,30
+597,Balanced,Vanguard Total Stock Market Index Fund,803356.36,Aggressive,11/15/2016,46.73,24,Low,7
+598,Fixed Income,Fidelity 500 Index Fund,282989.68,Aggressive,11/8/2010,7.67,33,Medium,14
+599,Balanced,Fidelity 500 Index Fund,501132.66,Aggressive,8/5/2021,44.26,72,High,16
+600,Balanced,Vanguard Total Stock Market Index Fund,846647.79,Aggressive,8/13/2010,-18.2,70,High,21
+601,Fixed Income,Fidelity 500 Index Fund,947807.37,Conservative,6/16/2017,44.57,22,Medium,10
+602,Balanced,BlackRock Global Allocation Fund,660235.71,Conservative,8/5/2016,10.24,69,Low,8
+603,Fixed Income,BlackRock Global Allocation Fund,247723.96,Moderate,9/19/2021,17.6,58,High,12
+604,Balanced,Fidelity 500 Index Fund,448502.4,Conservative,1/1/2017,-15.24,26,High,8
+605,Equity,Vanguard Total Stock Market Index Fund,927767.61,Moderate,6/9/2019,2.98,34,Medium,27
+606,Balanced,BlackRock Global Allocation Fund,40643.83,Conservative,9/29/2016,-14.99,44,Medium,2
+607,Balanced,BlackRock Global Allocation Fund,867237.26,Conservative,5/4/2021,22.6,75,High,30
+608,Equity,Fidelity 500 Index Fund,7628.13,Moderate,7/20/2020,-35.36,18,Low,7
+609,Fixed Income,Vanguard Total Stock Market Index Fund,942339.33,Conservative,7/12/2021,-38.06,44,Low,2
+610,Fixed Income,Vanguard Total Stock Market Index Fund,242486.89,Aggressive,3/28/2012,-21.18,55,High,29
+611,Balanced,BlackRock Global Allocation Fund,23034.93,Moderate,6/29/2011,-1.63,68,Low,10
+612,Equity,BlackRock Global Allocation Fund,340125.93,Aggressive,10/27/2013,-38.26,42,Medium,22
+613,Equity,Fidelity 500 Index Fund,818922.15,Conservative,11/29/2014,-35.35,62,High,4
+614,Equity,Vanguard Total Stock Market Index Fund,878186.46,Moderate,3/26/2015,-26.1,55,Low,11
+615,Balanced,BlackRock Global Allocation Fund,658581.55,Aggressive,7/15/2014,-7.1,70,Low,23
+616,Equity,Vanguard Total Stock Market Index Fund,333263.96,Moderate,1/7/2019,29.28,74,Low,13
+617,Equity,BlackRock Global Allocation Fund,835939.21,Aggressive,7/27/2013,15.08,47,High,8
+618,Balanced,BlackRock Global Allocation Fund,463775.95,Moderate,4/17/2020,28.76,75,Medium,2
+619,Fixed Income,BlackRock Global Allocation Fund,875011.19,Conservative,6/4/2018,20.56,48,Low,4
+620,Equity,Fidelity 500 Index Fund,479417.96,Aggressive,6/9/2015,-16.51,85,High,1
+621,Equity,Vanguard Total Stock Market Index Fund,550740.9,Conservative,9/30/2012,-27.36,29,Low,25
+622,Equity,Fidelity 500 Index Fund,388996.82,Conservative,10/9/2020,-43.97,66,Low,10
+623,Fixed Income,Vanguard Total Stock Market Index Fund,737690.83,Conservative,8/25/2013,-27.73,61,Low,3
+624,Equity,Fidelity 500 Index Fund,4725.33,Aggressive,8/10/2015,33.98,37,Low,25
+625,Equity,BlackRock Global Allocation Fund,729093.72,Moderate,5/3/2012,30.86,64,Low,8
+626,Equity,Fidelity 500 Index Fund,67699.3,Moderate,1/4/2012,26.06,63,Medium,10
+627,Equity,BlackRock Global Allocation Fund,360867.99,Moderate,5/28/2015,-11.4,34,Medium,2
+628,Balanced,Vanguard Total Stock Market Index Fund,298300.88,Conservative,2/18/2017,20.42,45,High,10
+629,Equity,BlackRock Global Allocation Fund,88791.45,Aggressive,5/27/2020,36.59,54,Medium,18
+630,Fixed Income,BlackRock Global Allocation Fund,180417.15,Aggressive,10/26/2015,9.97,41,High,6
+631,Equity,BlackRock Global Allocation Fund,238396.22,Conservative,11/30/2021,6.44,76,High,6
+632,Equity,Vanguard Total Stock Market Index Fund,937909.95,Conservative,9/19/2011,42.28,45,High,11
+633,Equity,Vanguard Total Stock Market Index Fund,845736.44,Moderate,5/2/2014,-49.01,45,Medium,21
+634,Balanced,BlackRock Global Allocation Fund,396630.7,Aggressive,12/29/2015,-47.01,64,Medium,4
+635,Balanced,Fidelity 500 Index Fund,276738.09,Conservative,2/28/2017,-40.79,43,Medium,29
+636,Fixed Income,BlackRock Global Allocation Fund,412040.15,Moderate,4/23/2011,-14.2,84,Medium,19
+637,Balanced,Fidelity 500 Index Fund,949370.15,Aggressive,12/14/2021,27.8,62,High,27
+638,Fixed Income,Vanguard Total Stock Market Index Fund,286194.28,Conservative,1/4/2019,-24.36,32,Low,4
+639,Balanced,Vanguard Total Stock Market Index Fund,912382.46,Aggressive,5/6/2020,5.99,38,Medium,9
+640,Balanced,Fidelity 500 Index Fund,888385.89,Moderate,6/14/2019,16.61,55,Low,3
+641,Balanced,BlackRock Global Allocation Fund,898069.59,Moderate,8/26/2010,-18.65,37,Medium,9
+642,Fixed Income,BlackRock Global Allocation Fund,596278.54,Moderate,1/21/2011,4.24,65,Low,12
+643,Equity,Fidelity 500 Index Fund,560498.76,Moderate,9/11/2013,-20.01,27,Low,26
+644,Balanced,BlackRock Global Allocation Fund,471737.88,Aggressive,12/26/2012,-24.37,25,Low,12
+645,Fixed Income,BlackRock Global Allocation Fund,27667.74,Aggressive,3/6/2019,-27.48,53,Low,27
+646,Balanced,BlackRock Global Allocation Fund,501202.56,Aggressive,9/12/2010,4.62,55,Low,1
+647,Equity,BlackRock Global Allocation Fund,195869.63,Moderate,5/31/2010,24.17,32,Low,4
+648,Balanced,Vanguard Total Stock Market Index Fund,624630.13,Aggressive,4/4/2012,18.29,41,Low,15
+649,Fixed Income,Fidelity 500 Index Fund,557980.1,Conservative,5/18/2017,23.22,68,High,24
+650,Fixed Income,Fidelity 500 Index Fund,739554.07,Moderate,12/11/2020,-14.04,76,High,5
+651,Equity,Fidelity 500 Index Fund,472628.96,Moderate,1/16/2015,-38.86,77,High,4
+652,Equity,BlackRock Global Allocation Fund,771703.82,Aggressive,5/11/2018,-28.82,70,Low,27
+653,Fixed Income,BlackRock Global Allocation Fund,243528.78,Aggressive,10/10/2013,-11.44,51,High,19
+654,Balanced,BlackRock Global Allocation Fund,449946.34,Moderate,11/11/2015,-14.68,23,Medium,12
+655,Balanced,Vanguard Total Stock Market Index Fund,283780.31,Aggressive,4/14/2019,9.49,85,Low,16
+656,Balanced,Fidelity 500 Index Fund,624604.33,Conservative,8/26/2011,-7.34,69,Low,30
+657,Fixed Income,BlackRock Global Allocation Fund,540283.91,Conservative,10/20/2012,12.04,68,High,6
+658,Balanced,Fidelity 500 Index Fund,496931.98,Moderate,11/15/2021,14.67,50,High,29
+659,Fixed Income,Fidelity 500 Index Fund,15204.82,Moderate,5/2/2015,-26.2,26,High,18
+660,Equity,Fidelity 500 Index Fund,559430.54,Moderate,11/16/2018,17.73,67,High,22
+661,Equity,Vanguard Total Stock Market Index Fund,892000.65,Conservative,7/2/2019,-8.28,36,Low,9
+662,Equity,BlackRock Global Allocation Fund,523588.84,Conservative,7/20/2013,35.32,31,High,25
+663,Balanced,Vanguard Total Stock Market Index Fund,921376.7,Conservative,5/15/2016,-6.59,61,Medium,5
+664,Fixed Income,Vanguard Total Stock Market Index Fund,612299.58,Moderate,6/24/2015,-8.37,60,High,1
+665,Balanced,Fidelity 500 Index Fund,204446.34,Aggressive,9/21/2014,20.09,66,Medium,21
+666,Fixed Income,Fidelity 500 Index Fund,356185.83,Aggressive,9/20/2018,25.27,85,Medium,28
+667,Balanced,Vanguard Total Stock Market Index Fund,523891.45,Moderate,5/31/2014,18.38,79,Medium,25
+668,Fixed Income,Fidelity 500 Index Fund,717573.52,Conservative,10/26/2011,28.5,22,Medium,12
+669,Balanced,Vanguard Total Stock Market Index Fund,660098.27,Moderate,5/17/2011,12.28,75,Medium,29
+670,Balanced,Fidelity 500 Index Fund,649392.27,Conservative,11/8/2020,-5.81,28,Medium,12
+671,Balanced,BlackRock Global Allocation Fund,192975.31,Aggressive,12/16/2010,-41.03,39,Medium,21
+672,Fixed Income,BlackRock Global Allocation Fund,953469.6,Moderate,10/25/2017,-49.9,45,Low,23
+673,Fixed Income,BlackRock Global Allocation Fund,953573.18,Aggressive,10/10/2016,-17.3,49,Medium,8
+674,Balanced,Fidelity 500 Index Fund,652507.46,Conservative,3/11/2016,37.72,18,Low,19
+675,Fixed Income,BlackRock Global Allocation Fund,331759.1,Aggressive,1/17/2012,-20.69,20,Medium,12
+676,Balanced,BlackRock Global Allocation Fund,410259.96,Aggressive,10/9/2015,10.8,73,High,26
+677,Equity,Vanguard Total Stock Market Index Fund,608202.03,Aggressive,11/13/2013,-7.49,83,Medium,16
+678,Equity,Fidelity 500 Index Fund,60803.31,Aggressive,11/10/2010,47.53,83,Low,9
+679,Fixed Income,Fidelity 500 Index Fund,472387.63,Conservative,9/1/2014,9.19,66,High,16
+680,Balanced,Fidelity 500 Index Fund,879212.58,Moderate,9/8/2014,-11.77,24,High,12
+681,Fixed Income,Fidelity 500 Index Fund,437521.68,Moderate,1/18/2011,25.35,82,Low,30
+682,Equity,Vanguard Total Stock Market Index Fund,562936.13,Conservative,11/20/2014,13.23,80,Low,10
+683,Equity,Vanguard Total Stock Market Index Fund,975497.46,Moderate,8/30/2010,24.97,70,Low,22
+684,Equity,Fidelity 500 Index Fund,572065.66,Aggressive,3/31/2019,38.9,65,Medium,24
+685,Balanced,Fidelity 500 Index Fund,225756.87,Conservative,3/26/2018,-1.76,62,High,19
+686,Equity,Vanguard Total Stock Market Index Fund,474077.28,Aggressive,5/3/2013,15.33,80,Medium,22
+687,Equity,Vanguard Total Stock Market Index Fund,560876.85,Conservative,5/27/2016,34.96,34,High,4
+688,Fixed Income,Vanguard Total Stock Market Index Fund,153850.5,Aggressive,5/30/2015,47.1,69,Medium,18
+689,Equity,BlackRock Global Allocation Fund,681586.86,Aggressive,11/4/2016,32.05,41,Medium,24
+690,Fixed Income,BlackRock Global Allocation Fund,209868.35,Moderate,2/2/2021,24.44,21,Medium,20
+691,Balanced,BlackRock Global Allocation Fund,743889.19,Aggressive,7/1/2014,-48.75,83,High,13
+692,Equity,BlackRock Global Allocation Fund,670130.77,Conservative,1/14/2015,25.49,74,Medium,6
+693,Fixed Income,Vanguard Total Stock Market Index Fund,727073.59,Conservative,10/20/2016,-4.26,73,Low,30
+694,Fixed Income,Vanguard Total Stock Market Index Fund,20572.76,Moderate,1/11/2012,-47.4,62,High,3
+695,Balanced,Fidelity 500 Index Fund,407265.48,Moderate,5/13/2020,7.85,69,High,17
+696,Equity,Vanguard Total Stock Market Index Fund,43744.72,Conservative,10/23/2013,-30.3,38,High,11
+697,Equity,BlackRock Global Allocation Fund,526848.21,Aggressive,3/23/2018,-35.55,39,Low,20
+698,Fixed Income,Vanguard Total Stock Market Index Fund,555412.74,Aggressive,5/29/2019,-25.56,51,Medium,27
+699,Balanced,BlackRock Global Allocation Fund,625570.14,Conservative,8/28/2021,-22.9,74,High,28
+700,Balanced,BlackRock Global Allocation Fund,380146.78,Moderate,2/13/2017,-34.23,28,High,8
+701,Fixed Income,Vanguard Total Stock Market Index Fund,132071.61,Moderate,8/4/2015,42.58,77,High,23
+702,Balanced,BlackRock Global Allocation Fund,887881.85,Moderate,1/4/2015,-23.25,74,Low,22
+703,Equity,BlackRock Global Allocation Fund,313809.35,Aggressive,8/30/2021,-40.32,82,High,5
+704,Fixed Income,Fidelity 500 Index Fund,421482.37,Conservative,2/9/2010,-33.93,41,Low,16
+705,Equity,BlackRock Global Allocation Fund,359707.78,Conservative,9/26/2010,3.74,20,Low,10
+706,Fixed Income,BlackRock Global Allocation Fund,497376.28,Aggressive,5/14/2015,-44.58,56,High,6
+707,Balanced,Fidelity 500 Index Fund,253336.89,Moderate,11/5/2019,-14.09,30,Medium,14
+708,Fixed Income,BlackRock Global Allocation Fund,587161.39,Moderate,1/4/2016,-13.21,45,High,7
+709,Balanced,BlackRock Global Allocation Fund,847401.0,Aggressive,11/4/2012,-32.64,33,High,23
+710,Equity,BlackRock Global Allocation Fund,823637.2,Moderate,10/11/2011,15.15,33,High,29
+711,Equity,BlackRock Global Allocation Fund,324257.61,Moderate,8/31/2019,14.21,72,Low,23
+712,Fixed Income,Fidelity 500 Index Fund,262464.91,Aggressive,8/19/2020,-17.05,82,Low,6
+713,Equity,Fidelity 500 Index Fund,864698.78,Conservative,10/14/2019,37.75,56,High,25
+714,Balanced,Fidelity 500 Index Fund,188169.17,Aggressive,2/13/2010,-37.66,18,High,5
+715,Fixed Income,Vanguard Total Stock Market Index Fund,824405.09,Moderate,12/10/2015,33.95,73,Low,1
+716,Fixed Income,Fidelity 500 Index Fund,75880.25,Aggressive,8/26/2016,4.09,74,Low,5
+717,Balanced,BlackRock Global Allocation Fund,155393.11,Conservative,6/11/2021,-6.56,25,High,2
+718,Equity,BlackRock Global Allocation Fund,192212.93,Moderate,3/23/2013,-45.94,58,Medium,7
+719,Equity,Fidelity 500 Index Fund,957213.6,Moderate,8/19/2019,-12.94,76,Low,23
+720,Fixed Income,Fidelity 500 Index Fund,748786.46,Moderate,3/22/2010,44.87,37,Low,22
+721,Balanced,Fidelity 500 Index Fund,274356.75,Conservative,7/1/2016,23.82,77,High,24
+722,Equity,Vanguard Total Stock Market Index Fund,423217.31,Conservative,6/10/2019,-23.88,80,Low,28
+723,Equity,BlackRock Global Allocation Fund,917443.61,Conservative,7/28/2013,11.32,40,Low,1
+724,Balanced,Vanguard Total Stock Market Index Fund,143650.59,Aggressive,10/9/2020,-27.17,78,High,16
+725,Fixed Income,Vanguard Total Stock Market Index Fund,794771.41,Conservative,6/30/2015,-23.24,68,Medium,22
+726,Fixed Income,Vanguard Total Stock Market Index Fund,582486.32,Conservative,5/25/2013,40.35,22,Low,18
+727,Fixed Income,Fidelity 500 Index Fund,783919.75,Conservative,11/26/2010,30.39,20,Medium,16
+728,Fixed Income,Vanguard Total Stock Market Index Fund,531201.89,Conservative,10/20/2010,-32.55,73,Medium,22
+729,Fixed Income,Fidelity 500 Index Fund,893285.78,Conservative,6/20/2011,-18.63,71,High,22
+730,Balanced,Vanguard Total Stock Market Index Fund,610862.23,Conservative,7/31/2013,-38.43,27,Medium,16
+731,Balanced,BlackRock Global Allocation Fund,230733.59,Moderate,3/12/2016,-28.91,73,High,12
+732,Equity,Vanguard Total Stock Market Index Fund,451977.17,Moderate,2/7/2014,3.28,41,Low,16
+733,Equity,Vanguard Total Stock Market Index Fund,509452.82,Moderate,8/9/2010,-12.46,72,Low,14
+734,Fixed Income,Vanguard Total Stock Market Index Fund,207306.87,Aggressive,6/21/2012,-21.32,25,Low,22
+735,Fixed Income,BlackRock Global Allocation Fund,350530.05,Moderate,6/28/2019,-37.73,59,High,26
+736,Fixed Income,Fidelity 500 Index Fund,855183.0,Conservative,4/3/2015,46.09,77,High,14
+737,Equity,BlackRock Global Allocation Fund,406037.05,Moderate,4/23/2015,-2.83,24,Low,1
+738,Equity,Fidelity 500 Index Fund,174429.14,Aggressive,9/27/2021,-27.19,70,High,17
+739,Balanced,BlackRock Global Allocation Fund,595965.56,Aggressive,9/25/2011,45.6,58,Medium,9
+740,Balanced,BlackRock Global Allocation Fund,466520.53,Conservative,4/16/2011,-29.25,25,Medium,23
+741,Balanced,Fidelity 500 Index Fund,377014.85,Moderate,6/28/2019,27.62,28,Low,7
+742,Balanced,Vanguard Total Stock Market Index Fund,999755.13,Moderate,7/15/2020,25.61,48,High,24
+743,Fixed Income,BlackRock Global Allocation Fund,957218.28,Aggressive,1/24/2012,41.73,55,Low,18
+744,Balanced,Fidelity 500 Index Fund,78548.7,Aggressive,8/25/2021,17.36,60,Medium,20
+745,Fixed Income,BlackRock Global Allocation Fund,918928.91,Conservative,8/31/2011,-45.58,80,Medium,15
+746,Equity,BlackRock Global Allocation Fund,346155.52,Moderate,1/23/2015,20.07,43,Low,23
+747,Equity,Vanguard Total Stock Market Index Fund,511939.49,Conservative,3/11/2021,-32.54,49,Medium,22
+748,Fixed Income,Vanguard Total Stock Market Index Fund,241955.08,Aggressive,5/15/2020,31.14,65,Medium,29
+749,Equity,BlackRock Global Allocation Fund,772696.06,Aggressive,12/24/2017,-47.79,36,High,6
+750,Balanced,BlackRock Global Allocation Fund,315177.35,Moderate,8/23/2018,38.41,73,Low,26
+751,Fixed Income,Fidelity 500 Index Fund,185416.96,Conservative,3/8/2010,-1.45,66,High,13
+752,Equity,BlackRock Global Allocation Fund,975447.08,Moderate,3/4/2018,25.39,85,Low,15
+753,Balanced,Fidelity 500 Index Fund,222071.26,Aggressive,1/20/2015,0.61,48,Medium,8
+754,Equity,Vanguard Total Stock Market Index Fund,762916.34,Conservative,10/22/2015,-34.84,29,Medium,26
+755,Equity,BlackRock Global Allocation Fund,756098.39,Moderate,1/5/2015,-0.95,38,Medium,18
+756,Fixed Income,BlackRock Global Allocation Fund,493683.94,Conservative,8/22/2016,-26.07,63,Medium,5
+757,Equity,Vanguard Total Stock Market Index Fund,760445.4,Conservative,9/13/2017,-17.46,64,High,24
+758,Fixed Income,Fidelity 500 Index Fund,681235.31,Moderate,1/6/2018,29.69,55,Low,24
+759,Equity,Fidelity 500 Index Fund,338155.79,Conservative,10/30/2019,-41.37,60,Low,6
+760,Balanced,BlackRock Global Allocation Fund,813177.33,Moderate,12/10/2015,17.31,61,Low,15
+761,Fixed Income,Fidelity 500 Index Fund,467111.62,Conservative,4/17/2019,2.84,80,Medium,16
+762,Balanced,Vanguard Total Stock Market Index Fund,640146.28,Aggressive,6/1/2011,-43.78,72,High,19
+763,Fixed Income,Fidelity 500 Index Fund,661744.79,Conservative,8/7/2020,38.0,20,Medium,24
+764,Balanced,BlackRock Global Allocation Fund,325000.91,Moderate,6/24/2015,-39.95,80,Medium,17
+765,Balanced,BlackRock Global Allocation Fund,158975.8,Aggressive,5/5/2019,-1.85,72,High,12
+766,Fixed Income,Fidelity 500 Index Fund,211881.37,Aggressive,2/16/2017,-35.05,66,Medium,16
+767,Equity,Vanguard Total Stock Market Index Fund,915386.36,Moderate,9/20/2018,-33.05,26,Medium,18
+768,Equity,BlackRock Global Allocation Fund,985048.13,Aggressive,12/29/2011,-46.89,65,High,9
+769,Equity,BlackRock Global Allocation Fund,395959.57,Moderate,10/7/2020,-24.86,29,Medium,24
+770,Equity,Vanguard Total Stock Market Index Fund,650477.09,Aggressive,1/18/2021,42.59,63,High,15
+771,Fixed Income,BlackRock Global Allocation Fund,767387.3,Moderate,3/3/2018,43.01,70,High,26
+772,Fixed Income,Vanguard Total Stock Market Index Fund,727627.04,Conservative,6/10/2012,18.81,40,Medium,12
+773,Balanced,Fidelity 500 Index Fund,346607.89,Aggressive,11/20/2011,-41.99,54,Low,6
+774,Balanced,Fidelity 500 Index Fund,569760.9,Aggressive,11/16/2017,-10.65,54,High,14
+775,Equity,Fidelity 500 Index Fund,547360.76,Conservative,6/23/2021,17.82,53,High,26
+776,Balanced,Vanguard Total Stock Market Index Fund,157380.48,Aggressive,5/19/2016,37.29,43,Medium,23
+777,Balanced,Vanguard Total Stock Market Index Fund,682448.0,Conservative,9/26/2012,-16.66,21,Low,22
+778,Equity,Fidelity 500 Index Fund,403650.2,Moderate,10/13/2018,-32.71,63,Medium,19
+779,Fixed Income,BlackRock Global Allocation Fund,439389.55,Aggressive,5/9/2013,16.8,36,Medium,19
+780,Balanced,BlackRock Global Allocation Fund,265059.77,Moderate,9/21/2021,26.58,29,Medium,6
+781,Fixed Income,BlackRock Global Allocation Fund,866748.54,Moderate,11/24/2018,17.4,42,High,27
+782,Equity,BlackRock Global Allocation Fund,465985.06,Aggressive,9/24/2014,-43.34,80,Medium,3
+783,Fixed Income,Fidelity 500 Index Fund,56165.83,Moderate,12/26/2018,14.72,26,Medium,26
+784,Balanced,Fidelity 500 Index Fund,516368.36,Aggressive,8/7/2018,-17.53,72,Medium,6
+785,Equity,BlackRock Global Allocation Fund,964049.72,Moderate,9/26/2012,-40.26,19,High,22
+786,Fixed Income,BlackRock Global Allocation Fund,7007.63,Conservative,2/2/2018,-9.4,81,Medium,5
+787,Fixed Income,Vanguard Total Stock Market Index Fund,76740.87,Aggressive,12/30/2013,-31.01,36,High,3
+788,Balanced,Vanguard Total Stock Market Index Fund,862534.16,Moderate,12/17/2015,46.26,50,Low,19
+789,Balanced,Vanguard Total Stock Market Index Fund,653679.16,Conservative,2/27/2016,32.31,58,High,7
+790,Equity,Vanguard Total Stock Market Index Fund,596429.18,Conservative,6/3/2013,0.33,34,High,29
+791,Fixed Income,Fidelity 500 Index Fund,62278.06,Aggressive,3/12/2010,11.2,77,Low,3
+792,Balanced,Vanguard Total Stock Market Index Fund,408393.83,Conservative,12/31/2010,-40.85,57,Low,25
+793,Balanced,BlackRock Global Allocation Fund,688958.56,Moderate,5/15/2021,30.5,20,Low,14
+794,Fixed Income,Fidelity 500 Index Fund,122592.87,Aggressive,7/22/2013,-34.41,21,Low,9
+795,Balanced,Fidelity 500 Index Fund,909742.25,Moderate,8/11/2010,-36.25,69,High,15
+796,Fixed Income,Fidelity 500 Index Fund,821049.95,Moderate,3/22/2020,9.35,61,Low,14
+797,Fixed Income,Vanguard Total Stock Market Index Fund,433191.17,Conservative,4/6/2015,-10.8,70,Low,26
+798,Equity,BlackRock Global Allocation Fund,337098.56,Moderate,4/17/2014,45.88,33,High,2
+799,Balanced,Fidelity 500 Index Fund,424057.95,Aggressive,9/10/2015,-30.28,29,Low,11
+800,Balanced,Fidelity 500 Index Fund,274322.16,Moderate,3/11/2010,29.82,36,High,13
+801,Fixed Income,Fidelity 500 Index Fund,761876.67,Aggressive,5/27/2014,28.52,42,High,18
+802,Balanced,Fidelity 500 Index Fund,184573.06,Conservative,12/9/2020,-3.38,20,Low,2
+803,Fixed Income,Vanguard Total Stock Market Index Fund,846944.27,Moderate,2/10/2012,48.87,72,Low,12
+804,Equity,Vanguard Total Stock Market Index Fund,109563.77,Conservative,4/12/2011,-34.83,82,Low,20
+805,Equity,Vanguard Total Stock Market Index Fund,585175.13,Aggressive,12/14/2011,-16.73,72,High,7
+806,Fixed Income,Fidelity 500 Index Fund,285641.98,Moderate,1/9/2018,-45.41,67,Medium,1
+807,Balanced,BlackRock Global Allocation Fund,472911.79,Aggressive,12/29/2010,0.9,63,Medium,3
+808,Fixed Income,Fidelity 500 Index Fund,203937.51,Conservative,8/17/2017,-31.78,77,High,25
+809,Balanced,BlackRock Global Allocation Fund,706323.29,Moderate,3/11/2014,-39.12,60,Medium,12
+810,Balanced,Vanguard Total Stock Market Index Fund,999180.3,Aggressive,12/22/2013,-47.99,33,Medium,7
+811,Fixed Income,BlackRock Global Allocation Fund,148555.4,Aggressive,7/20/2019,3.02,63,Medium,8
+812,Equity,Fidelity 500 Index Fund,380957.4,Aggressive,5/1/2021,-29.86,74,Medium,12
+813,Equity,Vanguard Total Stock Market Index Fund,261699.98,Moderate,7/14/2016,-14.96,79,High,14
+814,Equity,Vanguard Total Stock Market Index Fund,393893.41,Moderate,11/10/2012,-19.33,41,Low,20
+815,Equity,BlackRock Global Allocation Fund,598507.92,Conservative,2/14/2012,-43.48,22,Medium,29
+816,Balanced,Vanguard Total Stock Market Index Fund,463921.36,Moderate,9/29/2015,32.15,43,High,6
+817,Balanced,Vanguard Total Stock Market Index Fund,11062.08,Moderate,8/19/2011,-7.02,46,Low,1
+818,Fixed Income,Vanguard Total Stock Market Index Fund,995802.97,Moderate,3/10/2012,-35.1,54,Medium,10
+819,Balanced,Vanguard Total Stock Market Index Fund,55854.86,Aggressive,8/14/2014,-42.19,82,Medium,10
+820,Fixed Income,Fidelity 500 Index Fund,888577.52,Moderate,9/9/2015,-4.83,49,Medium,6
+821,Fixed Income,Vanguard Total Stock Market Index Fund,19773.65,Conservative,2/9/2013,42.59,58,Medium,11
+822,Fixed Income,BlackRock Global Allocation Fund,525598.68,Conservative,10/1/2015,3.17,75,High,27
+823,Equity,Fidelity 500 Index Fund,619643.13,Aggressive,11/8/2020,4.25,60,High,27
+824,Balanced,Vanguard Total Stock Market Index Fund,529236.22,Conservative,5/2/2011,45.21,60,High,23
+825,Equity,Vanguard Total Stock Market Index Fund,285202.56,Conservative,9/22/2014,-18.83,76,High,22
+826,Balanced,Vanguard Total Stock Market Index Fund,266373.7,Conservative,10/9/2017,-48.14,67,Low,12
+827,Equity,BlackRock Global Allocation Fund,277837.72,Aggressive,9/15/2021,7.12,73,High,10
+828,Fixed Income,Vanguard Total Stock Market Index Fund,490313.2,Conservative,8/31/2011,44.46,34,High,27
+829,Balanced,Vanguard Total Stock Market Index Fund,660199.11,Moderate,10/16/2013,21.97,70,High,3
+830,Balanced,Vanguard Total Stock Market Index Fund,285211.47,Moderate,2/14/2015,-4.05,50,Low,1
+831,Equity,Vanguard Total Stock Market Index Fund,518620.59,Aggressive,12/30/2019,-1.81,61,Low,22
+832,Fixed Income,BlackRock Global Allocation Fund,373171.83,Moderate,6/3/2020,-3.05,49,Medium,17
+833,Balanced,BlackRock Global Allocation Fund,562979.8,Conservative,1/13/2015,-46.63,72,Medium,13
+834,Equity,BlackRock Global Allocation Fund,422439.5,Conservative,3/18/2021,10.84,46,High,4
+835,Balanced,BlackRock Global Allocation Fund,621591.75,Moderate,5/10/2013,-32.62,20,High,3
+836,Balanced,Vanguard Total Stock Market Index Fund,686783.07,Moderate,3/12/2013,-19.31,52,Medium,4
+837,Equity,Vanguard Total Stock Market Index Fund,473120.3,Aggressive,1/30/2014,-48.67,70,Medium,28
+838,Balanced,Fidelity 500 Index Fund,160932.4,Conservative,8/9/2016,-9.2,41,High,23
+839,Equity,BlackRock Global Allocation Fund,908548.84,Conservative,3/13/2019,-29.29,76,High,5
+840,Equity,Vanguard Total Stock Market Index Fund,504177.24,Conservative,3/12/2014,-44.58,74,Low,6
+841,Balanced,BlackRock Global Allocation Fund,856689.93,Moderate,7/23/2010,-35.2,37,Medium,15
+842,Balanced,Fidelity 500 Index Fund,896564.13,Conservative,8/4/2017,29.02,25,Low,6
+843,Fixed Income,Vanguard Total Stock Market Index Fund,934609.61,Conservative,4/18/2021,-37.91,70,Medium,30
+844,Balanced,Vanguard Total Stock Market Index Fund,459848.02,Moderate,6/20/2010,45.35,18,Low,4
+845,Balanced,Fidelity 500 Index Fund,143015.33,Conservative,8/18/2016,-22.59,76,High,13
+846,Equity,Fidelity 500 Index Fund,314765.09,Moderate,2/13/2015,17.76,20,High,16
+847,Fixed Income,Fidelity 500 Index Fund,473306.08,Moderate,10/11/2020,29.23,74,High,29
+848,Fixed Income,BlackRock Global Allocation Fund,517445.31,Conservative,3/10/2014,-15.75,65,Medium,4
+849,Balanced,Fidelity 500 Index Fund,506797.71,Aggressive,1/15/2015,29.81,61,Medium,29
+850,Fixed Income,Vanguard Total Stock Market Index Fund,502968.74,Conservative,10/27/2015,-47.6,20,High,25
+851,Equity,Fidelity 500 Index Fund,307483.41,Moderate,7/21/2015,5.72,68,Low,1
+852,Equity,Fidelity 500 Index Fund,495829.39,Moderate,6/14/2014,5.8,61,High,14
+853,Balanced,Fidelity 500 Index Fund,85197.9,Moderate,2/16/2010,19.47,70,Medium,2
+854,Fixed Income,Vanguard Total Stock Market Index Fund,578757.95,Conservative,2/4/2019,1.25,18,High,4
+855,Fixed Income,Fidelity 500 Index Fund,340886.14,Moderate,2/24/2014,-41.4,31,Low,4
+856,Balanced,BlackRock Global Allocation Fund,882338.94,Moderate,10/20/2012,39.29,76,High,5
+857,Fixed Income,BlackRock Global Allocation Fund,428520.63,Moderate,7/11/2010,-36.41,54,High,11
+858,Fixed Income,Fidelity 500 Index Fund,495523.19,Conservative,6/29/2011,30.22,56,High,26
+859,Equity,BlackRock Global Allocation Fund,761225.72,Moderate,7/4/2016,16.71,72,High,18
+860,Balanced,BlackRock Global Allocation Fund,433277.91,Aggressive,10/22/2019,49.64,28,High,18
+861,Equity,BlackRock Global Allocation Fund,641175.08,Moderate,6/6/2019,15.46,26,Medium,16
+862,Balanced,Fidelity 500 Index Fund,487156.58,Conservative,7/3/2016,30.6,63,Medium,8
+863,Equity,BlackRock Global Allocation Fund,505265.26,Aggressive,4/14/2010,44.29,55,High,7
+864,Balanced,Vanguard Total Stock Market Index Fund,866671.09,Moderate,2/20/2013,32.57,41,Medium,11
+865,Balanced,BlackRock Global Allocation Fund,522139.76,Moderate,11/28/2015,-4.87,42,Low,27
+866,Fixed Income,BlackRock Global Allocation Fund,152525.29,Conservative,12/20/2017,36.5,58,Medium,1
+867,Fixed Income,Fidelity 500 Index Fund,41261.17,Conservative,11/9/2015,3.51,50,High,15
+868,Equity,Fidelity 500 Index Fund,555910.44,Moderate,3/7/2014,-5.77,59,Low,5
+869,Equity,Vanguard Total Stock Market Index Fund,861639.58,Conservative,6/28/2012,-0.49,18,High,25
+870,Balanced,BlackRock Global Allocation Fund,707418.26,Moderate,12/14/2021,-22.11,66,High,16
+871,Equity,BlackRock Global Allocation Fund,588549.41,Conservative,8/17/2012,45.09,42,Medium,23
+872,Equity,Vanguard Total Stock Market Index Fund,209646.05,Conservative,11/4/2018,0.34,44,Low,22
+873,Equity,BlackRock Global Allocation Fund,434965.76,Aggressive,5/29/2018,-7.74,83,Medium,20
+874,Fixed Income,Fidelity 500 Index Fund,880622.15,Moderate,1/7/2015,-32.48,60,Medium,16
+875,Equity,Vanguard Total Stock Market Index Fund,124431.68,Moderate,4/10/2013,42.28,48,High,6
+876,Balanced,Fidelity 500 Index Fund,126068.03,Aggressive,8/27/2015,12.62,64,Medium,25
+877,Balanced,Fidelity 500 Index Fund,87840.01,Moderate,12/25/2017,13.29,58,Medium,29
+878,Fixed Income,BlackRock Global Allocation Fund,688984.44,Moderate,7/15/2010,47.12,40,Medium,27
+879,Fixed Income,Vanguard Total Stock Market Index Fund,341746.63,Conservative,12/11/2017,-39.99,32,Low,2
+880,Equity,Vanguard Total Stock Market Index Fund,150555.89,Moderate,2/20/2015,16.29,18,Low,21
+881,Fixed Income,Vanguard Total Stock Market Index Fund,483423.36,Conservative,9/29/2016,-7.39,49,Low,24
+882,Equity,Fidelity 500 Index Fund,502554.45,Moderate,5/29/2016,6.7,57,Medium,29
+883,Fixed Income,Fidelity 500 Index Fund,718590.5,Conservative,1/23/2014,4.37,19,Medium,9
+884,Equity,Vanguard Total Stock Market Index Fund,897707.45,Moderate,5/11/2018,-3.7,26,High,17
+885,Equity,BlackRock Global Allocation Fund,434268.09,Moderate,10/22/2018,9.63,28,High,30
+886,Fixed Income,Vanguard Total Stock Market Index Fund,68089.16,Moderate,2/23/2016,-41.8,18,Medium,25
+887,Equity,BlackRock Global Allocation Fund,918201.49,Moderate,3/10/2011,7.07,48,Low,27
+888,Balanced,BlackRock Global Allocation Fund,879647.17,Conservative,8/12/2018,-19.86,75,Low,18
+889,Equity,Vanguard Total Stock Market Index Fund,361005.0,Moderate,6/9/2017,14.81,52,High,1
+890,Fixed Income,Vanguard Total Stock Market Index Fund,439148.85,Aggressive,9/23/2014,-4.01,67,Low,19
+891,Fixed Income,BlackRock Global Allocation Fund,592733.64,Moderate,7/3/2021,48.78,58,Medium,13
+892,Equity,Vanguard Total Stock Market Index Fund,665789.9,Aggressive,5/25/2021,-20.77,42,High,1
+893,Fixed Income,Vanguard Total Stock Market Index Fund,91640.85,Aggressive,4/20/2013,0.48,19,Low,2
+894,Equity,Fidelity 500 Index Fund,437311.67,Moderate,7/6/2016,-24.14,81,Medium,27
+895,Fixed Income,Vanguard Total Stock Market Index Fund,249730.2,Aggressive,4/18/2019,0.84,79,Low,21
+896,Equity,BlackRock Global Allocation Fund,18895.92,Moderate,6/10/2010,-45.29,24,Low,9
+897,Balanced,BlackRock Global Allocation Fund,146178.75,Aggressive,10/8/2011,-45.37,60,Medium,26
+898,Fixed Income,Fidelity 500 Index Fund,366825.05,Aggressive,9/13/2014,-17.49,36,Low,6
+899,Fixed Income,BlackRock Global Allocation Fund,582947.69,Aggressive,1/15/2020,22.66,45,Low,6
+900,Equity,BlackRock Global Allocation Fund,44488.71,Conservative,11/5/2010,-15.25,22,Low,5
+901,Balanced,BlackRock Global Allocation Fund,737021.65,Moderate,2/8/2011,15.29,35,Low,27
+902,Equity,Vanguard Total Stock Market Index Fund,38918.67,Conservative,11/28/2019,-4.27,71,Low,2
+903,Equity,Fidelity 500 Index Fund,538175.55,Conservative,6/20/2019,36.96,81,Low,30
+904,Equity,Fidelity 500 Index Fund,803213.56,Moderate,9/15/2014,-36.02,52,Low,16
+905,Fixed Income,Vanguard Total Stock Market Index Fund,439526.66,Aggressive,5/6/2020,6.8,54,Low,1
+906,Fixed Income,Fidelity 500 Index Fund,709377.21,Aggressive,1/27/2012,-18.79,71,Medium,8
+907,Equity,Vanguard Total Stock Market Index Fund,995946.94,Conservative,6/9/2012,-33.16,80,High,17
+908,Equity,BlackRock Global Allocation Fund,480021.28,Moderate,11/8/2019,19.56,40,Medium,23
+909,Equity,BlackRock Global Allocation Fund,105246.04,Moderate,6/11/2014,49.24,59,High,27
+910,Fixed Income,Fidelity 500 Index Fund,600275.05,Conservative,1/16/2013,11.57,26,High,1
+911,Fixed Income,Fidelity 500 Index Fund,534366.97,Moderate,2/6/2017,-2.64,33,Medium,9
+912,Equity,Fidelity 500 Index Fund,121465.68,Conservative,6/11/2010,-38.13,67,Medium,29
+913,Balanced,BlackRock Global Allocation Fund,213934.08,Conservative,7/30/2013,-45.33,62,Low,16
+914,Equity,BlackRock Global Allocation Fund,832041.48,Aggressive,7/22/2021,-26.18,51,Medium,18
+915,Fixed Income,Fidelity 500 Index Fund,211780.95,Aggressive,10/15/2019,27.47,79,Medium,22
+916,Equity,Vanguard Total Stock Market Index Fund,495877.41,Moderate,12/11/2012,-14.91,23,Medium,2
+917,Fixed Income,Fidelity 500 Index Fund,851080.92,Conservative,10/1/2015,38.59,78,High,3
+918,Balanced,Fidelity 500 Index Fund,38725.92,Moderate,8/13/2012,-23.23,25,High,26
+919,Equity,BlackRock Global Allocation Fund,971126.48,Conservative,11/5/2019,14.83,64,High,16
+920,Balanced,BlackRock Global Allocation Fund,923988.33,Aggressive,9/11/2015,23.1,65,High,12
+921,Equity,Vanguard Total Stock Market Index Fund,604231.99,Aggressive,5/17/2010,-42.82,59,Medium,18
+922,Fixed Income,Fidelity 500 Index Fund,177088.63,Moderate,1/28/2015,8.69,54,Low,17
+923,Balanced,Fidelity 500 Index Fund,893890.66,Moderate,8/22/2019,47.26,79,High,20
+924,Equity,Vanguard Total Stock Market Index Fund,812718.57,Conservative,2/3/2015,6.9,31,Medium,25
+925,Fixed Income,Fidelity 500 Index Fund,831486.46,Aggressive,9/28/2010,28.23,66,High,16
+926,Balanced,BlackRock Global Allocation Fund,484460.95,Conservative,8/12/2019,-2.61,35,Low,28
+927,Balanced,Vanguard Total Stock Market Index Fund,787346.07,Conservative,9/9/2011,35.41,50,Medium,29
+928,Equity,BlackRock Global Allocation Fund,381516.95,Moderate,8/2/2018,33.96,64,Low,29
+929,Equity,Vanguard Total Stock Market Index Fund,116806.56,Aggressive,4/14/2012,-47.55,66,Medium,18
+930,Balanced,Fidelity 500 Index Fund,151116.72,Conservative,11/9/2011,-24.11,54,Medium,25
+931,Fixed Income,BlackRock Global Allocation Fund,551210.05,Conservative,4/7/2019,39.1,58,High,5
+932,Balanced,Fidelity 500 Index Fund,734736.18,Aggressive,11/26/2011,8.03,41,Medium,1
+933,Balanced,Vanguard Total Stock Market Index Fund,510008.4,Conservative,1/20/2011,-36.85,73,Low,7
+934,Balanced,Fidelity 500 Index Fund,198030.21,Aggressive,8/11/2012,25.88,46,Medium,18
+935,Fixed Income,Fidelity 500 Index Fund,673739.24,Moderate,5/2/2012,-49.95,44,Low,17
+936,Fixed Income,Fidelity 500 Index Fund,925533.22,Aggressive,6/4/2021,-11.66,26,Low,6
+937,Fixed Income,Fidelity 500 Index Fund,517466.68,Moderate,1/5/2019,17.7,75,Medium,30
+938,Fixed Income,Vanguard Total Stock Market Index Fund,36619.91,Moderate,7/27/2014,38.06,49,Low,26
+939,Fixed Income,Vanguard Total Stock Market Index Fund,256339.98,Conservative,12/30/2020,15.61,61,Medium,26
+940,Fixed Income,Vanguard Total Stock Market Index Fund,490529.26,Aggressive,10/20/2021,-2.33,84,Medium,23
+941,Equity,Fidelity 500 Index Fund,38706.33,Conservative,2/11/2020,29.39,82,Low,1
+942,Equity,BlackRock Global Allocation Fund,482948.87,Aggressive,9/6/2017,-24.94,64,Medium,3
+943,Equity,Fidelity 500 Index Fund,835701.1,Conservative,2/5/2014,-28.38,68,Medium,1
+944,Balanced,BlackRock Global Allocation Fund,909165.22,Conservative,5/25/2020,6.11,60,Low,18
+945,Balanced,Vanguard Total Stock Market Index Fund,255758.17,Conservative,2/22/2016,12.09,70,Medium,24
+946,Equity,Fidelity 500 Index Fund,874414.96,Aggressive,3/16/2016,23.94,44,Low,1
+947,Equity,Fidelity 500 Index Fund,302656.21,Aggressive,8/3/2020,16.6,68,Low,2
+948,Equity,Fidelity 500 Index Fund,758725.81,Aggressive,1/2/2017,23.25,85,Medium,23
+949,Fixed Income,Fidelity 500 Index Fund,761427.93,Aggressive,4/4/2017,31.59,37,High,8
+950,Equity,Fidelity 500 Index Fund,265813.45,Conservative,3/1/2015,-30.19,82,High,25
+951,Equity,Vanguard Total Stock Market Index Fund,987791.57,Aggressive,7/12/2012,44.29,68,High,22
+952,Balanced,Vanguard Total Stock Market Index Fund,196663.16,Conservative,5/20/2015,8.27,23,Low,13
+953,Balanced,Fidelity 500 Index Fund,684711.57,Aggressive,2/18/2019,-46.97,76,Medium,25
+954,Equity,Vanguard Total Stock Market Index Fund,408312.53,Conservative,10/3/2018,-3.89,26,Medium,27
+955,Balanced,Vanguard Total Stock Market Index Fund,679959.86,Moderate,5/28/2018,-20.19,74,Low,20
+956,Balanced,Vanguard Total Stock Market Index Fund,415425.24,Conservative,3/15/2013,-27.09,79,Low,14
+957,Fixed Income,Vanguard Total Stock Market Index Fund,852071.17,Conservative,4/18/2014,-25.12,50,High,15
+958,Balanced,Fidelity 500 Index Fund,635402.06,Moderate,3/10/2013,5.31,79,Low,8
+959,Balanced,BlackRock Global Allocation Fund,828640.17,Moderate,10/12/2016,-18.98,35,Medium,1
+960,Balanced,Vanguard Total Stock Market Index Fund,171286.61,Conservative,8/11/2015,9.19,19,High,5
+961,Balanced,Fidelity 500 Index Fund,391345.15,Conservative,10/2/2020,26.92,25,Medium,29
+962,Fixed Income,Vanguard Total Stock Market Index Fund,637310.77,Conservative,10/22/2016,-3.1,36,Medium,15
+963,Equity,Fidelity 500 Index Fund,182800.22,Conservative,8/10/2014,-31.39,35,High,9
+964,Fixed Income,Vanguard Total Stock Market Index Fund,143472.08,Moderate,4/8/2014,-9.61,69,High,10
+965,Fixed Income,Vanguard Total Stock Market Index Fund,820825.18,Aggressive,11/19/2020,-25.63,73,High,25
+966,Balanced,BlackRock Global Allocation Fund,400005.7,Aggressive,11/26/2019,3.41,78,Medium,17
+967,Equity,BlackRock Global Allocation Fund,276033.54,Aggressive,5/11/2016,-47.97,31,Medium,3
+968,Fixed Income,BlackRock Global Allocation Fund,436182.73,Conservative,8/9/2019,23.42,52,Low,25
+969,Fixed Income,BlackRock Global Allocation Fund,206803.88,Moderate,5/2/2011,44.05,70,Medium,15
+970,Fixed Income,BlackRock Global Allocation Fund,3091.87,Moderate,1/2/2020,43.92,44,High,15
+971,Equity,Fidelity 500 Index Fund,453793.15,Conservative,5/17/2010,17.2,18,Low,21
+972,Balanced,Vanguard Total Stock Market Index Fund,214305.82,Conservative,5/17/2019,-21.2,83,Low,11
+973,Balanced,BlackRock Global Allocation Fund,766819.3,Moderate,4/30/2019,24.87,34,High,25
+974,Fixed Income,Fidelity 500 Index Fund,961809.99,Aggressive,2/8/2016,-22.72,83,Low,2
+975,Balanced,Fidelity 500 Index Fund,943029.64,Conservative,11/7/2014,24.07,53,Low,18
+976,Fixed Income,BlackRock Global Allocation Fund,629894.37,Aggressive,6/25/2020,-31.72,55,Medium,12
+977,Balanced,BlackRock Global Allocation Fund,710955.63,Conservative,4/15/2012,49.45,52,High,19
+978,Balanced,Vanguard Total Stock Market Index Fund,600495.67,Conservative,1/15/2020,-19.44,42,Low,15
+979,Balanced,Fidelity 500 Index Fund,469224.17,Moderate,5/26/2016,41.36,78,Medium,10
+980,Fixed Income,Fidelity 500 Index Fund,75967.89,Conservative,9/3/2019,-36.4,24,Medium,9
+981,Equity,Vanguard Total Stock Market Index Fund,887179.5,Aggressive,8/6/2010,-13.67,78,Medium,26
+982,Fixed Income,BlackRock Global Allocation Fund,185165.4,Conservative,8/14/2019,-2.41,44,High,4
+983,Balanced,Fidelity 500 Index Fund,688583.54,Aggressive,4/14/2020,-32.0,19,Medium,12
+984,Equity,BlackRock Global Allocation Fund,736115.97,Conservative,11/28/2018,33.23,29,High,9
+985,Balanced,Fidelity 500 Index Fund,823864.34,Conservative,6/15/2015,-42.83,37,High,19
+986,Fixed Income,Vanguard Total Stock Market Index Fund,29117.39,Conservative,4/4/2010,3.33,60,Low,30
+987,Fixed Income,BlackRock Global Allocation Fund,554517.32,Aggressive,6/8/2016,46.31,43,Medium,21
+988,Balanced,Vanguard Total Stock Market Index Fund,358157.54,Conservative,8/7/2017,10.98,65,Medium,1
+989,Fixed Income,Vanguard Total Stock Market Index Fund,228610.4,Conservative,11/26/2019,44.01,62,High,26
+990,Equity,Fidelity 500 Index Fund,350307.98,Aggressive,1/13/2019,34.11,55,Medium,20
+991,Balanced,Fidelity 500 Index Fund,990889.53,Moderate,1/10/2015,19.48,36,Low,2
+992,Fixed Income,Vanguard Total Stock Market Index Fund,859859.55,Conservative,4/13/2018,22.37,52,High,23
+993,Balanced,BlackRock Global Allocation Fund,975017.39,Aggressive,10/1/2016,-12.43,40,Medium,19
+994,Fixed Income,Fidelity 500 Index Fund,387791.68,Conservative,4/3/2017,-45.88,30,High,29
+995,Fixed Income,Fidelity 500 Index Fund,872081.05,Moderate,4/27/2017,-3.08,29,Medium,1
+996,Balanced,Vanguard Total Stock Market Index Fund,860999.61,Moderate,11/10/2010,44.61,60,Low,16
+997,Balanced,BlackRock Global Allocation Fund,194533.54,Aggressive,9/11/2014,-38.2,59,High,10
+998,Equity,BlackRock Global Allocation Fund,983044.19,Aggressive,9/2/2015,-39.79,68,Medium,28
+999,Fixed Income,BlackRock Global Allocation Fund,673714.84,Aggressive,12/21/2010,-31.59,74,Low,7
+1000,Fixed Income,Fidelity 500 Index Fund,688440.3,Moderate,5/3/2015,37.54,31,Low,11
